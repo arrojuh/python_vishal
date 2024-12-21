@@ -1,0 +1,42 @@
+
+### Assignment Questions on Python Data Types and Operators ###
+
+### Integer and Float ###
+1. Assign the value 25 to a variable `a`. Assign the value 7 to another variable `b`. Perform division and assign the result to `c`. (Hint: Use `/` operator)
+2. Assign the value 15 to a variable `x`. Assign the value 4 to another variable `y`. Find the remainder when `x` is divided by `y`. (Hint: Use `%` operator)
+3. Assign the value 3.5 to a variable `p`. Multiply it with 2 and store the result in `q`. (Hint: Use `*` operator)
+4. Assign `123456789123456789` to a variable and print its type. (Hint: Python supports arbitrarily large integers.)
+5. Add 0.1 three times and compare it to 0.3. (Hint: Demonstrates floating-point precision issues.)
+
+### Comparison Operators ###
+6. Assign 45 to `a` and 60 to `b`. Check if `a` is less than `b`. (Hint: Use `<` operator)
+7. Assign 25 to `x` and 25.0 to `y`. Check if they are equal. (Hint: Use `==` operator)
+8. Compare `10` with `20` to see if it is greater than or equal. (Hint: Use `>=` operator)
+9. Assign 15 to `a` and 10 to `b`. Compare if `a` is not equal to `b`. (Hint: Use `!=` operator)
+10. Compare two floating-point numbers `5.0` and `5.1`. (Hint: Check greater than or less than)
+
+### Logical Operators ###
+11. Check if 5 is greater than 3 and 10 is less than 20. (Hint: Use `and` operator)
+12. Check if either 7 is greater than 10 or 15 is equal to 15. (Hint: Use `or` operator)
+13. Assign True to `a` and False to `b`. Check the result of `not a`. (Hint: Use `not` operator)
+14. Combine comparison and logical operators to check if a number is between 10 and 20 (inclusive).
+
+### Strings ###
+15. Assign "Python" to a variable `s`. Access the first character. (Hint: Use indexing `[0]`)
+16. Assign "Programming" to a variable `s`. Access the last character. (Hint: Use negative indexing `[-1]`)
+17. Assign "Data Science" to a variable `text`. Extract the substring "Data". (Hint: Use slicing `[0:4]`)
+18. Assign "Artificial Intelligence" to `ai`. Extract every alternate character. (Hint: Use slicing with step `[::2]`)
+19. Assign "Machine Learning" to `ml`. Reverse the string. (Hint: Use slicing with negative step `[:: -1]`)
+20. Check if the string "Python" is present in the phrase "Python is fun!". (Hint: Use `in` operator)
+21. Assign "12345" to a variable `num_str`. Convert it to an integer. (Hint: Use `int()` function)
+22. Assign "Hello World" to a variable `hw`. Replace "World" with "Python". (Hint: Use `.replace()` method)
+23. Assign "    Data Analysis    " to `text`. Remove the leading and trailing spaces. (Hint: Use `.strip()` method)
+24. Assign "Cloud Computing" to a variable `cc`. Find the length of the string. (Hint: Use `len()` function)
+25. Assign "python programming" to a variable `lowercase`. Convert it to uppercase. (Hint: Use `.upper()` method)
+
+### String Indexing with Step ###
+26. Assign "Deep Learning" to a variable `dl`. Extract every second character starting from the second position. (Hint: Use slicing `[1::2]`)
+27. Assign "Big Data" to a variable `bd`. Extract every third character. (Hint: Use slicing `[::3]`)
+28. Assign "Computer Vision" to `cv`. Extract the substring "puter" using slicing with steps. (Hint: Carefully select `[start:end:step]`)
+29. Assign "Predictive Analytics" to `pa`. Reverse the string and extract every second character. (Hint: Combine slicing with reverse and step `[:: -2]`)
+30. Assign "Analytics" to `a`. Extract all characters except the first and last. (Hint: Use slicing `[1:-1]`)
