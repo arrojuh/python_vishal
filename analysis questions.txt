@@ -1,0 +1,8 @@
+
+1. Calculate the average age of the individuals.
+2. Find the individual with the highest salary.
+3. Count the number of individuals in each city.
+4. Add a new column "Salary Increase" which is a 10% increase on the current salary.
+5. Calculate the median salary of the individuals.
+6. Find the average salary for each city.
+7. Find the number of individuals in each age group (20-29, 30-39, etc.).
