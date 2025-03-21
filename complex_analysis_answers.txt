@@ -1,0 +1,58 @@
+
+average_age = df['Age'].mean()
+highest_salary_individual = df.loc[df['Salary'].idxmax()]
+city_counts = df['City'].value_counts()
+df['Salary Increase'] = df['Salary'] * 1.10
+median_salary = df['Salary'].median()
+average_salary_per_city = df.groupby('City')['Salary'].mean()
+age_groups = pd.cut(df['Age'], bins=[20, 29, 39, 49, 59], labels=['20-29', '30-39', '40-49', '50-59'])
+age_group_counts = age_groups.value_counts()
+std_dev_salary = df['Salary'].std()
+top_5_highest_earning_individuals = df.nlargest(5, 'Salary')
+correlation_age_salary = df['Age'].corr(df['Salary'])
+num_individuals_above_100k = df[df['Salary'] > 100000].shape[0]
+average_age_per_city = df.groupby('City')['Age'].mean()
+lowest_salary_individual = df.loc[df['Salary'].idxmin()]
+total_salary_expenditure_per_city = df.groupby('City')['Salary'].sum()
+name_counts = df['Name'].value_counts()
+salary_range = df['Salary'].max() - df['Salary'].min()
+top_3_cities_highest_avg_salary = average_salary_per_city.nlargest(3)
+variance_age = df['Age'].var()
+salary_ranges = pd.cut(df['Salary'], bins=[50000, 75000, 100000, 125000, 150000], labels=['50k-75k', '75k-100k', '100k-125k', '125k-150k'])
+salary_range_counts = salary_ranges.value_counts()
+total_salary_per_age_group = df.groupby(age_groups)['Salary'].sum()
+
+# Additional complex analyses
+Q21_outliers_iqr = df[(df['Salary'] < (df['Salary'].quantile(0.25) - 1.5 * (df['Salary'].quantile(0.75) - df['Salary'].quantile(0.25)))) | 
+                      (df['Salary'] > (df['Salary'].quantile(0.75) + 1.5 * (df['Salary'].quantile(0.75) - df['Salary'].quantile(0.25))))]
+
+Q22_skewness_salary = df['Salary'].skew()
+Q22_kurtosis_salary = df['Salary'].kurt()
+
+city1_salaries = df[df['City'] == 'New York']['Salary']
+city2_salaries = df[df['City'] == 'Los Angeles']['Salary']
+Q23_ttest_result = ttest_ind(city1_salaries, city2_salaries)
+
+def gini_coefficient(x):
+    diffsum = sum([abs(i-j) for i in x for j in x])
+    return diffsum / (2 * len(x)**2 * np.mean(x))
+
+Q24_gini_coefficient_salary = gini_coefficient(df['Salary'])
+
+contingency_table = pd.crosstab(df['City'], salary_ranges)
+Q25_chi2_test_result = chi2_contingency(contingency_table)
+
+Q26_coeff_variation_salary = df['Salary'].std() / df['Salary'].mean()
+
+X = pd.get_dummies(df[['Age', 'City']], drop_first=True)
+y = df['Salary']
+model = LinearRegression().fit(X, y)
+Q27_regression_coefficients = model.coef_
+
+city_population_counts = df['City'].value_counts(normalize=True)
+Q28_hhi_index_city_population = sum(city_population_counts**2)
+
+pca_model = PCA(n_components=1)
+Q29_pca_result = pca_model.fit_transform(df[['Age', 'Salary']])
+
+Q30_entropy_city_distribution = entropy(df['City'].value_counts())

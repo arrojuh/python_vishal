@@ -1,0 +1,30 @@
+Calculate the average age of the individuals.
+Find the individual with the highest salary.
+Count the number of individuals in each city.
+Add a new column "Salary Increase" which is a 10% increase on the current salary.
+Calculate the median salary of the individuals.
+Find the average salary for each city.
+Find the number of individuals in each age group (20-29, 30-39, etc.).
+Calculate the standard deviation of salaries.
+Find the top 5 highest earning individuals.
+Calculate the correlation between age and salary.
+Find the number of individuals with a salary above 100,000.
+Group individuals by city and calculate the average age for each city.
+Find the individual with the lowest salary.
+Calculate the total salary expenditure for each city.
+Find the number of individuals in each name category.
+Calculate the range (max-min) of salaries.
+Find the top 3 cities with the highest average salary.
+Calculate the variance of ages.
+Find the number of individuals in each salary range (50k-75k, 75k-100k, etc.).
+Group individuals by age group and calculate the total salary for each group.
+Identify any outliers in salaries using the IQR method.
+Calculate the skewness and kurtosis of the salary distribution.
+Perform a t-test to compare salaries between two cities.
+Calculate the Gini coefficient for salary inequality.
+Perform a chi-square test to determine if there is a significant association between city and salary range.
+Calculate the coefficient of variation for salaries.
+Perform a linear regression analysis to predict salary based on age and city.
+Calculate the Herfindahl-Hirschman Index (HHI) for market concentration based on city population in the dataset.
+Perform a principal component analysis (PCA) on age and salary to reduce dimensionality.
+Calculate the entropy of the distribution of individuals across cities.
