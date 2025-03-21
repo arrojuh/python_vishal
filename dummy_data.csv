@@ -1,0 +1,3001 @@
+Name,Age,City,Salary
+Eva,41,Houston,55497
+Alice,43,Los Angeles,89248
+David,57,Chicago,76835
+David,40,New York,90430
+David,33,Houston,120008
+Bob,21,Houston,149710
+David,28,Houston,119173
+Charlie,59,New York,131919
+Eva,29,Phoenix,57197
+Alice,37,Phoenix,132745
+Alice,45,New York,96415
+Eva,43,Houston,60863
+Charlie,30,Chicago,117648
+Bob,46,New York,82435
+Alice,33,Houston,71749
+Bob,51,Houston,96578
+Bob,41,Los Angeles,52390
+Alice,53,New York,106546
+Bob,21,Phoenix,85289
+Eva,52,Houston,51960
+David,26,Phoenix,67779
+Alice,54,Phoenix,57392
+David,50,Los Angeles,89862
+Alice,46,Los Angeles,119341
+Charlie,58,New York,87060
+David,56,New York,125189
+Alice,37,Houston,127880
+Bob,32,Chicago,149438
+David,59,Houston,91289
+David,45,Phoenix,70351
+David,20,New York,136166
+Alice,58,New York,78956
+Bob,50,New York,80040
+Bob,56,New York,63309
+Bob,58,Chicago,89766
+Alice,48,Houston,101716
+Charlie,43,New York,87716
+Eva,35,Chicago,60836
+David,58,Los Angeles,126478
+David,58,Chicago,149421
+Charlie,42,New York,82748
+Eva,27,New York,53059
+Charlie,57,Chicago,69892
+Alice,22,New York,106462
+Alice,33,New York,87316
+Eva,40,Chicago,136766
+Alice,49,Houston,109907
+Eva,52,Phoenix,88329
+Bob,39,Houston,84738
+Eva,42,Chicago,147926
+Bob,42,New York,50586
+Charlie,57,Houston,129310
+Charlie,54,Chicago,65506
+Alice,58,Chicago,127247
+Bob,41,Los Angeles,75688
+Bob,48,New York,62104
+Bob,54,Los Angeles,106604
+Bob,21,Phoenix,123338
+David,37,Chicago,120840
+David,54,Chicago,148514
+Charlie,33,New York,77384
+David,37,Los Angeles,89565
+Alice,51,Los Angeles,83279
+David,41,New York,134210
+Eva,54,Los Angeles,148203
+Bob,21,New York,68098
+Charlie,25,Los Angeles,117343
+Eva,58,New York,116441
+David,51,Phoenix,77885
+Eva,48,New York,87983
+Eva,58,New York,134363
+Eva,24,Los Angeles,86061
+David,57,Los Angeles,98969
+Eva,27,New York,114136
+Eva,23,New York,103679
+Eva,41,Los Angeles,58473
+Alice,41,Chicago,122397
+Eva,46,Houston,98950
+David,22,Phoenix,145808
+Charlie,48,New York,122057
+Alice,52,Los Angeles,134553
+Bob,57,Houston,109360
+Bob,53,New York,53250
+David,55,Los Angeles,68747
+Alice,52,Los Angeles,85033
+Alice,59,Chicago,132899
+Bob,37,New York,82062
+Charlie,29,Houston,89161
+Eva,55,Phoenix,70964
+Charlie,42,Chicago,146626
+Alice,25,Phoenix,73843
+David,42,New York,97528
+Charlie,29,Houston,145278
+Charlie,21,Houston,111118
+Alice,25,Houston,116589
+Bob,24,Los Angeles,59446
+Alice,27,Houston,55175
+Charlie,39,Los Angeles,68141
+Charlie,58,Houston,68580
+David,33,Phoenix,88610
+Charlie,31,Phoenix,59083
+David,43,Houston,78992
+Charlie,58,Houston,138726
+Bob,31,Los Angeles,131129
+Charlie,51,Los Angeles,146018
+David,23,Los Angeles,85579
+David,22,New York,99327
+David,27,Los Angeles,125285
+Charlie,22,Los Angeles,111906
+David,45,New York,119629
+Eva,25,Houston,119341
+Bob,36,Chicago,115231
+Charlie,28,New York,103682
+David,37,Los Angeles,82903
+Bob,48,New York,149479
+Charlie,34,Phoenix,98479
+Bob,26,Phoenix,101694
+Eva,33,Houston,81847
+Charlie,48,Los Angeles,149470
+David,23,Phoenix,111757
+Alice,58,New York,52969
+David,24,Los Angeles,135842
+Charlie,20,Houston,51860
+David,31,Los Angeles,122415
+Alice,58,Los Angeles,110001
+Alice,26,New York,143375
+Alice,40,Los Angeles,116886
+David,26,New York,99441
+Charlie,36,New York,100582
+David,20,Los Angeles,141900
+Alice,23,Houston,60092
+Eva,25,Houston,126631
+Alice,59,Chicago,72623
+Alice,36,Phoenix,124727
+Charlie,45,Los Angeles,118079
+David,50,Los Angeles,52062
+Charlie,47,New York,100601
+David,31,Houston,88281
+Alice,20,Los Angeles,114740
+Alice,53,Houston,75624
+Alice,45,Chicago,67267
+David,34,Los Angeles,62293
+Alice,54,New York,50412
+Charlie,58,Houston,139695
+Charlie,39,Phoenix,90982
+Alice,54,Houston,58809
+Eva,58,Houston,131354
+David,41,Phoenix,98469
+Eva,40,Houston,55790
+Alice,46,Chicago,72482
+Eva,55,Los Angeles,86921
+David,47,Los Angeles,57134
+David,23,Los Angeles,136494
+Eva,45,Houston,79344
+Bob,27,Phoenix,146809
+David,24,Houston,89032
+Alice,24,Los Angeles,54892
+Alice,29,Phoenix,110996
+Alice,24,Los Angeles,71994
+Bob,53,Los Angeles,61519
+Alice,30,Chicago,117478
+Eva,43,Chicago,73792
+Bob,52,Houston,111677
+David,33,Chicago,55574
+Bob,41,Phoenix,142009
+Alice,48,New York,96444
+Alice,43,Phoenix,106787
+Eva,25,Los Angeles,83790
+David,22,Los Angeles,112345
+David,20,Chicago,87858
+Bob,29,Los Angeles,114598
+Alice,27,New York,53753
+Alice,49,Houston,117899
+Bob,41,Houston,123144
+Charlie,36,Phoenix,105477
+Alice,34,Houston,78828
+David,39,Chicago,136935
+Bob,57,Chicago,72788
+Bob,46,Los Angeles,67789
+Eva,32,Chicago,105383
+Alice,35,Chicago,111969
+Alice,39,Houston,55182
+David,38,New York,106456
+Charlie,22,Los Angeles,82457
+David,36,Phoenix,124484
+Charlie,31,Houston,99656
+Eva,55,Los Angeles,51729
+David,29,Houston,137932
+David,29,Chicago,143663
+Alice,50,Phoenix,121055
+David,42,Phoenix,103713
+Alice,40,New York,148413
+Eva,39,Los Angeles,76306
+Charlie,24,Phoenix,72683
+David,35,Houston,126642
+Eva,53,Los Angeles,87528
+Alice,20,Chicago,76610
+Charlie,35,New York,79028
+David,33,Chicago,80061
+David,29,Phoenix,105820
+Bob,30,Chicago,90885
+David,59,Houston,112989
+Eva,54,Houston,56493
+David,59,Los Angeles,97085
+David,21,New York,112877
+Bob,28,New York,99105
+Bob,20,Houston,52378
+Bob,31,Chicago,122360
+David,46,Chicago,70510
+Charlie,50,Los Angeles,62898
+Charlie,39,Phoenix,51176
+Eva,41,Phoenix,98521
+David,21,Los Angeles,129845
+Bob,38,Phoenix,103510
+Charlie,48,Houston,136380
+David,31,New York,139861
+Bob,59,New York,149243
+Eva,29,Phoenix,121027
+Charlie,44,Phoenix,72278
+Charlie,24,Phoenix,126407
+Alice,46,New York,53386
+Bob,41,Phoenix,136561
+Alice,34,Chicago,119898
+Eva,49,Chicago,103646
+Alice,21,Houston,73794
+David,34,Los Angeles,138342
+Charlie,20,Houston,51666
+Alice,35,New York,118306
+Alice,53,Chicago,109304
+Bob,52,Los Angeles,85834
+Bob,57,Chicago,65178
+Alice,25,Phoenix,115459
+David,50,New York,57830
+Alice,29,Los Angeles,86152
+David,27,Houston,65433
+Alice,50,New York,95008
+Eva,41,Houston,138810
+Eva,50,Houston,50855
+Alice,28,Houston,112325
+Bob,21,Phoenix,116011
+David,41,Houston,130694
+Eva,28,Chicago,56906
+David,20,Los Angeles,128551
+Charlie,47,Los Angeles,112573
+Bob,45,New York,134665
+Bob,49,Chicago,90270
+Charlie,27,Houston,88062
+Bob,46,Chicago,132720
+Eva,51,Houston,139320
+Charlie,34,Houston,99942
+Eva,39,Los Angeles,69511
+Eva,28,Phoenix,84148
+Charlie,59,New York,103741
+David,49,Los Angeles,117189
+David,43,Houston,141645
+Bob,33,New York,125784
+Charlie,21,Houston,56625
+Eva,45,Los Angeles,123326
+David,44,Houston,68648
+David,50,New York,100856
+Bob,36,Houston,54132
+Bob,31,Los Angeles,81523
+Bob,59,Houston,145366
+Bob,27,New York,79977
+Charlie,58,Chicago,81982
+Alice,41,Chicago,98562
+David,44,Phoenix,138325
+Bob,57,Phoenix,65527
+Eva,56,Los Angeles,70905
+David,52,Houston,61897
+Bob,29,Houston,110587
+Bob,36,Houston,51945
+Charlie,55,Los Angeles,54529
+Alice,23,Los Angeles,134065
+Alice,59,Houston,53130
+Charlie,57,New York,53955
+Eva,23,Los Angeles,147460
+Alice,55,Phoenix,57725
+Eva,21,New York,59223
+David,23,Chicago,70687
+David,31,Houston,109795
+Alice,23,Phoenix,80969
+Alice,32,Phoenix,59724
+David,52,Phoenix,78979
+David,59,Phoenix,122371
+Alice,20,Houston,74226
+David,43,Phoenix,117423
+Alice,27,Phoenix,51690
+Charlie,21,New York,129595
+Bob,54,Los Angeles,128660
+Alice,33,Chicago,146057
+Eva,50,Houston,108201
+Alice,41,Chicago,85186
+David,37,Chicago,127017
+Eva,43,Los Angeles,64272
+Eva,55,Houston,96519
+Bob,53,New York,63322
+Alice,26,Los Angeles,82926
+Charlie,44,Phoenix,118337
+Eva,54,Phoenix,57052
+Eva,58,Chicago,59589
+Charlie,29,New York,132738
+Eva,44,Chicago,118360
+David,49,Phoenix,77205
+Charlie,25,Houston,103797
+David,45,Los Angeles,70977
+Alice,24,New York,70800
+Alice,58,Los Angeles,75711
+Alice,20,Los Angeles,54499
+David,34,Chicago,144964
+Eva,29,Phoenix,88835
+Eva,56,New York,109418
+Charlie,48,Los Angeles,51677
+Charlie,35,New York,79592
+Eva,22,New York,84410
+Bob,56,Phoenix,127586
+David,27,Los Angeles,92057
+David,37,New York,129164
+David,51,New York,124779
+Bob,35,Los Angeles,64541
+Charlie,48,Los Angeles,86278
+Charlie,51,Los Angeles,66759
+David,42,Chicago,86578
+Charlie,43,Los Angeles,71510
+David,24,Phoenix,92321
+Eva,20,New York,109977
+Eva,37,Chicago,102948
+Charlie,26,Los Angeles,100025
+Bob,24,Houston,124183
+Charlie,31,Chicago,93022
+Alice,52,Chicago,105125
+David,36,Chicago,90160
+Alice,22,Chicago,142130
+Charlie,30,New York,80001
+Eva,59,New York,142018
+David,58,Chicago,142291
+Charlie,59,Houston,87092
+Bob,20,Los Angeles,126381
+Charlie,29,Chicago,97481
+Bob,31,Chicago,113254
+Eva,37,Los Angeles,51551
+Bob,56,New York,88120
+Alice,25,Chicago,140705
+Alice,58,Chicago,148784
+Alice,56,Chicago,56457
+Alice,24,Chicago,66613
+Alice,31,Los Angeles,71700
+Bob,59,New York,88936
+Alice,49,Houston,125389
+David,31,Los Angeles,72796
+Bob,52,Houston,61799
+Eva,21,Houston,100573
+Bob,54,Los Angeles,124028
+Charlie,30,New York,65254
+Eva,59,New York,60935
+Alice,35,New York,81319
+Alice,46,Los Angeles,143143
+Charlie,36,Los Angeles,126114
+Alice,48,Phoenix,140105
+Eva,20,Los Angeles,137532
+Eva,22,Phoenix,118172
+Eva,42,Houston,54735
+Bob,44,Los Angeles,99675
+Bob,39,Phoenix,95965
+Eva,50,New York,141392
+Bob,33,Houston,102287
+Bob,27,Los Angeles,148831
+David,39,Chicago,67982
+Bob,55,Houston,65984
+David,49,Houston,102072
+David,40,Phoenix,117067
+Bob,28,Los Angeles,51625
+Bob,30,Phoenix,78065
+Bob,54,Houston,144569
+Alice,31,New York,140458
+David,28,Los Angeles,147387
+Alice,41,Los Angeles,110811
+Eva,24,Los Angeles,112813
+Bob,27,New York,108679
+Eva,41,Houston,91162
+Alice,42,Chicago,50277
+David,26,Houston,115880
+Charlie,39,New York,71025
+Bob,26,Phoenix,114748
+Eva,52,Phoenix,143705
+Eva,57,Chicago,140541
+Eva,42,Phoenix,85491
+Alice,41,New York,63605
+Alice,31,Chicago,122919
+Charlie,23,New York,145595
+Alice,52,Los Angeles,85773
+David,49,Phoenix,107451
+David,41,Los Angeles,147986
+Eva,37,Houston,55414
+Bob,25,Los Angeles,78033
+Eva,47,Phoenix,92218
+David,21,Houston,125332
+David,53,Phoenix,139689
+David,59,Phoenix,84935
+Eva,57,Phoenix,113085
+Charlie,50,New York,64121
+Bob,38,Phoenix,113864
+Charlie,35,Houston,146378
+Charlie,49,Houston,142056
+Bob,24,Chicago,133233
+David,40,Phoenix,102658
+David,36,New York,122400
+Eva,41,Phoenix,137675
+Eva,22,Houston,51865
+Charlie,40,Los Angeles,116588
+Bob,44,Phoenix,129262
+Bob,40,New York,68861
+Alice,35,Houston,90650
+Alice,53,Phoenix,94001
+Charlie,44,Chicago,56044
+Eva,44,Los Angeles,134927
+David,47,Houston,136982
+David,23,Chicago,105464
+Charlie,39,Houston,111909
+Bob,32,Los Angeles,130241
+Alice,30,Chicago,116487
+Eva,29,Chicago,93023
+Bob,48,Los Angeles,134107
+Eva,51,Los Angeles,149630
+Eva,43,Los Angeles,130408
+Charlie,33,Houston,124322
+Alice,25,Houston,80936
+Alice,27,New York,133287
+David,36,Chicago,122290
+Bob,59,Chicago,54613
+Bob,55,Phoenix,127815
+Alice,48,Chicago,51055
+Eva,37,New York,101311
+David,57,New York,98423
+David,21,Los Angeles,131279
+Eva,37,Chicago,89410
+David,50,New York,78536
+Eva,54,Los Angeles,139830
+David,23,New York,88326
+Alice,53,Chicago,55713
+David,45,Chicago,94386
+David,21,Los Angeles,88312
+Bob,54,Chicago,64720
+David,59,Los Angeles,89579
+Eva,38,Chicago,102828
+Alice,41,Phoenix,100073
+David,48,Los Angeles,116822
+Alice,21,Phoenix,134500
+Alice,58,Chicago,51546
+David,32,Houston,84561
+Bob,35,Chicago,57545
+Charlie,48,Houston,63989
+David,45,Chicago,104553
+Charlie,42,Los Angeles,149319
+David,47,New York,54086
+Alice,33,Los Angeles,129605
+David,53,Houston,93588
+Charlie,34,Chicago,127952
+Alice,28,Chicago,77358
+David,24,Chicago,61508
+Bob,41,New York,70489
+Eva,48,New York,68641
+David,42,Los Angeles,135694
+Bob,34,Los Angeles,146565
+Charlie,20,Houston,149189
+Bob,57,New York,101792
+Eva,29,Phoenix,68425
+Bob,53,Los Angeles,55798
+David,27,Phoenix,77622
+Bob,46,Los Angeles,81403
+David,49,Phoenix,130913
+Charlie,37,Phoenix,78085
+Eva,30,Los Angeles,126308
+Bob,53,New York,149337
+Eva,21,Los Angeles,133359
+Bob,58,New York,85975
+Eva,39,Chicago,139178
+Bob,49,Chicago,148359
+Charlie,26,Chicago,118950
+Charlie,25,Chicago,99146
+David,24,Houston,95055
+Bob,22,Houston,80468
+Charlie,36,Los Angeles,138403
+Charlie,27,Phoenix,91517
+Eva,44,Houston,124335
+Charlie,43,Houston,51158
+Charlie,42,Phoenix,142651
+David,26,Houston,148419
+Alice,34,Phoenix,115897
+Eva,59,Houston,92725
+Charlie,44,Chicago,63675
+Alice,51,Phoenix,134399
+Alice,40,Chicago,110306
+Charlie,38,Los Angeles,61535
+David,55,Phoenix,59436
+Bob,52,Phoenix,104511
+David,40,New York,67157
+Charlie,44,Houston,118231
+Eva,52,Phoenix,50996
+Bob,47,New York,117248
+Bob,56,New York,59491
+Charlie,38,New York,114615
+Charlie,42,Chicago,86768
+Eva,54,New York,121989
+David,51,Phoenix,113044
+Eva,38,Los Angeles,121165
+Charlie,34,Houston,75266
+Eva,27,Chicago,119162
+Charlie,31,New York,121997
+Bob,30,New York,114130
+Eva,58,Chicago,91706
+Alice,42,Chicago,115303
+Bob,20,Phoenix,130485
+Alice,54,Phoenix,141276
+Charlie,37,Los Angeles,62396
+Alice,26,Phoenix,98416
+David,23,Phoenix,61203
+Charlie,47,Chicago,131941
+Alice,32,Chicago,113131
+Charlie,59,Houston,129677
+David,41,Chicago,137797
+Alice,45,Chicago,74694
+Alice,20,Phoenix,66682
+Bob,54,Phoenix,50485
+Alice,21,Chicago,148766
+Alice,57,Chicago,145708
+Charlie,45,Houston,90405
+David,43,New York,128645
+Eva,24,Chicago,72881
+David,27,Los Angeles,137596
+David,49,Houston,118500
+Alice,21,New York,134871
+Eva,43,Phoenix,124954
+Eva,43,Chicago,73633
+David,44,Los Angeles,136028
+Charlie,45,Phoenix,83326
+Eva,25,Chicago,118565
+Eva,42,New York,67650
+David,36,Chicago,57974
+Bob,51,Chicago,81740
+Eva,20,Los Angeles,126609
+David,23,Houston,110861
+Bob,53,Phoenix,89798
+David,51,Phoenix,67702
+David,26,Chicago,58188
+Charlie,20,Los Angeles,60171
+Alice,28,Houston,56294
+Bob,44,Chicago,79812
+Alice,26,Phoenix,109689
+Bob,31,Chicago,109086
+Bob,24,New York,80065
+Eva,57,Houston,86193
+Charlie,27,Chicago,80668
+Charlie,45,Los Angeles,52885
+David,25,Phoenix,60661
+Alice,57,New York,91617
+David,24,Los Angeles,116504
+Charlie,32,Phoenix,145358
+David,36,New York,79365
+Charlie,25,Phoenix,108451
+Charlie,33,Houston,51849
+Bob,31,Chicago,105677
+David,42,Phoenix,130392
+Bob,59,New York,134621
+David,20,Houston,61573
+Charlie,44,Chicago,83122
+Charlie,47,Houston,105981
+Eva,50,Los Angeles,104725
+Bob,44,Los Angeles,87265
+Alice,48,Chicago,94294
+David,44,Los Angeles,121898
+Alice,50,Chicago,143560
+Eva,52,Los Angeles,119899
+Charlie,55,Los Angeles,136778
+Bob,42,Los Angeles,136185
+Alice,28,Chicago,61357
+Bob,23,Phoenix,137130
+Charlie,56,Phoenix,109710
+Bob,34,Los Angeles,79459
+Bob,56,Phoenix,71497
+David,37,Houston,139276
+Alice,39,Los Angeles,72225
+Eva,44,Houston,72095
+Bob,44,Phoenix,80022
+Bob,55,Chicago,61554
+Eva,21,New York,130641
+Alice,32,Chicago,119710
+Charlie,40,Chicago,141800
+David,27,Phoenix,86293
+Eva,42,Chicago,135979
+Bob,35,Phoenix,78223
+Charlie,52,New York,135575
+David,53,Phoenix,118026
+Eva,33,Houston,114815
+Bob,21,Phoenix,107410
+Alice,23,Houston,145786
+Eva,59,Chicago,137299
+Bob,56,Chicago,93087
+Charlie,58,Houston,60323
+Eva,47,Chicago,106909
+David,54,Los Angeles,121585
+Alice,58,New York,89964
+Eva,45,Phoenix,106253
+Eva,36,New York,90598
+Alice,29,Chicago,105748
+Charlie,45,New York,105254
+David,20,Los Angeles,93649
+Bob,35,Los Angeles,130304
+Charlie,36,Phoenix,145470
+Bob,56,Chicago,147698
+David,27,Chicago,117410
+Charlie,43,Los Angeles,75570
+Eva,58,Houston,124287
+Charlie,57,New York,57669
+Bob,57,Los Angeles,145333
+Eva,24,New York,64866
+Alice,54,Phoenix,94706
+Charlie,42,Los Angeles,145027
+Charlie,50,Phoenix,105492
+Eva,53,Houston,114043
+Charlie,47,Houston,128593
+Eva,27,Chicago,58970
+Alice,33,Phoenix,99736
+Charlie,45,Los Angeles,82538
+Bob,57,New York,129665
+Charlie,51,New York,70843
+Eva,56,Phoenix,107539
+Eva,59,Los Angeles,92890
+Bob,28,Chicago,112338
+Bob,38,Houston,104819
+Eva,40,Houston,94390
+Eva,45,Chicago,91989
+Charlie,59,Los Angeles,111755
+Eva,49,New York,65838
+Bob,22,New York,88182
+Charlie,37,New York,100157
+Eva,59,Los Angeles,137984
+Alice,53,Los Angeles,64022
+Bob,23,Phoenix,71198
+Alice,46,Phoenix,149714
+Charlie,44,Chicago,136209
+Bob,50,Chicago,89059
+Charlie,21,New York,145834
+David,38,Los Angeles,52199
+Bob,27,Phoenix,74429
+Charlie,25,New York,136903
+Alice,57,Phoenix,76951
+Charlie,39,Los Angeles,110953
+Eva,54,Los Angeles,75401
+Eva,41,Chicago,146601
+Alice,56,Los Angeles,97327
+Charlie,44,Los Angeles,83030
+Bob,50,New York,92228
+Alice,21,Los Angeles,58290
+Charlie,20,Houston,97015
+David,44,New York,94235
+Eva,24,Chicago,114923
+Alice,20,New York,141308
+Charlie,56,New York,132999
+David,40,Los Angeles,96233
+Eva,24,New York,87667
+David,25,Phoenix,52991
+Alice,34,Houston,142402
+Charlie,42,Phoenix,115263
+David,35,Chicago,67322
+David,39,Houston,131845
+David,32,Los Angeles,134155
+Bob,59,Houston,85112
+David,52,Los Angeles,53149
+Charlie,50,New York,125354
+Charlie,40,Los Angeles,71954
+Charlie,40,Chicago,109724
+Eva,25,Phoenix,58912
+David,30,Houston,105596
+Alice,44,Phoenix,81487
+Eva,31,Phoenix,118885
+Bob,41,Phoenix,106481
+Charlie,26,Phoenix,74988
+Bob,21,New York,125785
+Eva,33,Chicago,114785
+Bob,35,Chicago,122456
+Eva,41,Los Angeles,83305
+Bob,23,Los Angeles,114807
+Charlie,49,Los Angeles,103079
+David,29,Chicago,85589
+Charlie,44,Chicago,78282
+Charlie,56,Chicago,115592
+Charlie,40,Los Angeles,83450
+David,57,New York,130610
+Charlie,39,Phoenix,63308
+Eva,23,Chicago,112566
+Bob,57,Chicago,73836
+David,23,Houston,55258
+Alice,40,Chicago,76793
+Eva,58,Phoenix,120509
+David,50,Los Angeles,95028
+Bob,53,Houston,135766
+David,45,Phoenix,118915
+Eva,42,New York,60638
+Eva,57,Phoenix,122773
+Alice,22,Chicago,144128
+Charlie,47,Los Angeles,132770
+Bob,57,Phoenix,77170
+Eva,48,Houston,112764
+Eva,55,Phoenix,96202
+Bob,53,Houston,79233
+Eva,45,Houston,143315
+Alice,30,Phoenix,137457
+Alice,59,Houston,116654
+Charlie,28,Los Angeles,112118
+David,37,Chicago,79882
+Bob,45,New York,113465
+Alice,27,Phoenix,77981
+Alice,49,Houston,142797
+Alice,59,Chicago,142695
+Alice,40,Houston,135475
+Charlie,53,Chicago,60044
+Eva,30,Phoenix,59517
+Alice,32,Houston,91645
+Charlie,22,New York,60954
+David,52,New York,89001
+Eva,44,Phoenix,102592
+David,25,Houston,140694
+Eva,39,Phoenix,146505
+Eva,20,Chicago,92350
+Eva,37,Phoenix,57808
+Charlie,43,New York,105275
+Bob,40,Los Angeles,136753
+David,56,Houston,141608
+Eva,56,Los Angeles,59189
+Eva,32,New York,74415
+Alice,56,Los Angeles,97983
+Alice,35,Chicago,127925
+Charlie,57,Los Angeles,94592
+Eva,44,Phoenix,149779
+David,40,New York,105024
+David,27,Houston,64631
+Alice,43,New York,147348
+Alice,40,Phoenix,62038
+Bob,25,New York,145282
+Eva,27,Los Angeles,126900
+Eva,56,Los Angeles,54015
+Alice,29,Chicago,108503
+Alice,25,Phoenix,106349
+Alice,45,Phoenix,97022
+Bob,53,Houston,89949
+Bob,40,Houston,105491
+Bob,20,Houston,109495
+Eva,53,Phoenix,56163
+Bob,39,Chicago,120289
+Eva,29,Houston,100313
+Alice,22,Los Angeles,51736
+Eva,36,Houston,59036
+David,43,Houston,78632
+Charlie,45,Phoenix,130969
+Alice,36,New York,76501
+David,37,New York,77901
+Charlie,37,Los Angeles,87753
+David,57,Houston,78991
+Charlie,58,Los Angeles,73027
+Charlie,32,Los Angeles,129396
+Bob,26,Houston,50046
+David,44,Los Angeles,60712
+David,53,Los Angeles,58823
+Alice,34,Chicago,83427
+Eva,25,Los Angeles,117903
+David,29,New York,117831
+David,57,Chicago,142601
+Alice,58,Phoenix,68951
+Alice,31,Houston,90231
+Bob,45,Phoenix,148755
+Eva,36,Houston,104864
+Eva,39,Chicago,101941
+Bob,43,Phoenix,122912
+Alice,29,New York,84266
+Alice,59,Los Angeles,125558
+Alice,46,Houston,106139
+David,31,Phoenix,142242
+Eva,27,Houston,146995
+Eva,47,Los Angeles,122881
+Charlie,52,Chicago,113858
+Charlie,50,Chicago,121252
+David,42,New York,134233
+David,49,New York,64210
+Eva,52,Chicago,98087
+Charlie,22,Houston,55555
+Bob,42,Houston,116375
+Alice,44,Houston,102595
+Eva,34,Houston,112675
+Bob,22,Los Angeles,91870
+David,23,Chicago,131262
+Alice,53,Phoenix,118983
+David,56,Chicago,95250
+Charlie,20,New York,102977
+Bob,44,Houston,145914
+Alice,58,Chicago,52026
+Alice,32,Houston,133352
+David,35,Houston,58736
+Eva,46,Los Angeles,120246
+Bob,43,Los Angeles,59003
+Alice,49,Houston,91911
+Alice,36,Chicago,91578
+Charlie,38,Phoenix,66657
+Bob,53,Los Angeles,101048
+Bob,23,Phoenix,141494
+Alice,58,Phoenix,104863
+Bob,27,Houston,68842
+Bob,40,Los Angeles,106910
+Alice,44,Houston,125160
+Alice,22,Los Angeles,148393
+David,30,New York,109144
+David,54,Chicago,117510
+David,44,New York,100366
+David,20,Chicago,148764
+Bob,26,Chicago,52651
+Charlie,33,Chicago,105824
+Alice,58,Los Angeles,68963
+Alice,45,Los Angeles,57146
+Eva,47,Chicago,84870
+Charlie,25,New York,83976
+Charlie,43,Phoenix,92874
+Alice,44,Chicago,102080
+Charlie,33,Phoenix,139225
+Eva,41,New York,118748
+Bob,33,Phoenix,71429
+David,22,Los Angeles,120481
+Eva,21,New York,137280
+David,20,Los Angeles,57940
+Alice,34,Phoenix,76007
+Bob,56,Houston,144194
+Eva,27,New York,128183
+Charlie,29,Houston,98186
+Bob,24,Chicago,119025
+Eva,36,Houston,82517
+Bob,36,Los Angeles,102749
+Alice,36,Los Angeles,139404
+Charlie,23,Phoenix,86524
+David,22,Phoenix,111987
+David,52,Chicago,116578
+David,26,Los Angeles,105213
+Eva,41,New York,77704
+Bob,48,Chicago,134855
+Charlie,42,Houston,124807
+Charlie,47,New York,125087
+Eva,24,Chicago,60302
+Charlie,24,Houston,142522
+Charlie,51,New York,98348
+Bob,22,Phoenix,62138
+Bob,45,Los Angeles,94638
+Bob,50,Houston,126392
+Eva,31,Los Angeles,105725
+Eva,30,Houston,84698
+Eva,22,Los Angeles,127560
+Charlie,31,Houston,90600
+David,32,Los Angeles,104418
+Charlie,40,Phoenix,143174
+Bob,29,Los Angeles,137329
+David,55,Houston,108665
+Alice,26,Los Angeles,71254
+David,51,Los Angeles,79667
+Bob,47,Chicago,77321
+Bob,30,Houston,131407
+Bob,28,Los Angeles,132669
+Bob,45,Houston,96454
+Alice,57,Chicago,137663
+David,35,Houston,61600
+Alice,46,Houston,101453
+Charlie,25,Houston,61890
+David,38,New York,84364
+Charlie,20,Los Angeles,56254
+Charlie,56,New York,108687
+Charlie,52,Los Angeles,129135
+Bob,57,Los Angeles,117221
+David,38,Chicago,73264
+Eva,33,New York,80141
+David,39,New York,71591
+Bob,22,Phoenix,60737
+David,20,Chicago,65549
+Bob,58,Los Angeles,60875
+David,20,Los Angeles,75307
+David,29,Phoenix,58971
+Charlie,23,Los Angeles,74393
+Alice,25,New York,67104
+David,37,Phoenix,65283
+Eva,38,Phoenix,63129
+Alice,31,Los Angeles,119523
+Eva,20,Los Angeles,93075
+David,58,Phoenix,114288
+Bob,37,New York,114880
+David,38,Los Angeles,118714
+Charlie,26,Los Angeles,118328
+Bob,35,Phoenix,148062
+Eva,59,Chicago,126857
+David,20,New York,91263
+David,57,Los Angeles,73768
+Bob,56,Los Angeles,118244
+David,27,Chicago,60593
+Alice,31,Los Angeles,67112
+Eva,24,Houston,70454
+David,26,Phoenix,76060
+David,58,Los Angeles,80206
+Bob,26,Houston,118746
+Charlie,36,Los Angeles,83224
+Eva,54,Phoenix,101699
+Alice,36,Houston,138577
+Alice,52,Houston,70210
+Bob,48,Phoenix,80758
+Alice,56,Chicago,148768
+Charlie,52,Chicago,57324
+David,28,Phoenix,52926
+Eva,41,Los Angeles,84885
+David,44,New York,100977
+Bob,36,Los Angeles,63862
+David,41,Houston,109004
+Charlie,30,New York,80254
+Alice,52,Houston,94810
+Eva,28,Houston,83023
+Charlie,57,Phoenix,76015
+Bob,26,Chicago,91707
+Eva,46,Chicago,116332
+David,47,Chicago,95846
+Bob,45,Chicago,63044
+David,40,New York,108237
+Charlie,40,Chicago,115982
+Charlie,33,Phoenix,77726
+Bob,54,Los Angeles,60562
+Alice,24,Houston,65188
+Bob,34,Los Angeles,116566
+Alice,44,New York,54170
+Bob,21,Phoenix,99452
+Bob,59,Houston,115650
+Eva,33,New York,94920
+Alice,56,Phoenix,135740
+Alice,53,Houston,95308
+Charlie,32,Chicago,117779
+David,36,Houston,110751
+Charlie,25,New York,104907
+Alice,53,New York,82659
+Eva,51,Houston,104858
+Alice,28,Phoenix,117386
+David,53,Phoenix,115987
+David,20,Chicago,108491
+Bob,52,New York,102260
+Eva,51,Chicago,142432
+Charlie,22,Chicago,93898
+Eva,47,Phoenix,122433
+Bob,36,Chicago,80668
+Alice,43,Los Angeles,98669
+David,22,Chicago,115900
+Alice,27,Chicago,129525
+Alice,57,New York,108730
+Bob,40,Houston,119065
+Charlie,20,Chicago,91422
+Alice,27,Chicago,94815
+David,45,Houston,98327
+David,44,New York,50870
+Charlie,21,New York,131322
+Charlie,55,Los Angeles,139874
+Bob,50,Phoenix,86887
+Eva,54,New York,111648
+David,48,New York,82692
+Alice,54,Los Angeles,58894
+Bob,41,Houston,62088
+Charlie,43,New York,102486
+Alice,37,New York,135681
+Eva,25,Chicago,131004
+Charlie,23,Phoenix,144904
+Eva,45,Houston,135693
+Eva,41,Chicago,109579
+David,26,Phoenix,144841
+David,39,Houston,121254
+Eva,42,Phoenix,109166
+David,43,Houston,140283
+Charlie,41,New York,145974
+Eva,32,Houston,141914
+Eva,42,Los Angeles,53697
+Bob,30,Chicago,99662
+Bob,34,Los Angeles,75909
+Bob,25,Phoenix,56829
+Bob,59,Phoenix,65964
+Alice,30,Los Angeles,107799
+Bob,46,Houston,116794
+Charlie,46,Chicago,127653
+Alice,39,New York,83824
+Charlie,36,Chicago,142238
+Bob,21,Chicago,55848
+Eva,39,Houston,138242
+Alice,34,Phoenix,118618
+Eva,29,Houston,101627
+Charlie,55,Houston,130568
+Charlie,55,New York,66524
+Alice,28,Phoenix,134466
+Charlie,46,Phoenix,57354
+Alice,33,New York,59754
+Charlie,45,Chicago,117589
+Eva,34,Phoenix,147266
+David,33,Los Angeles,78610
+Bob,26,Los Angeles,149993
+Bob,28,Los Angeles,122795
+David,58,Chicago,136564
+David,34,Los Angeles,121531
+Alice,48,New York,69059
+Charlie,49,Phoenix,62404
+Eva,51,New York,83977
+Bob,50,Phoenix,60485
+David,28,New York,114949
+David,22,New York,72690
+David,35,Houston,50749
+Charlie,48,Chicago,132031
+Eva,54,New York,98761
+David,57,Chicago,129594
+Eva,58,Chicago,69648
+Bob,57,Houston,50915
+Alice,44,New York,121234
+Alice,25,New York,107886
+Bob,34,Los Angeles,58897
+Alice,54,Chicago,142173
+David,31,Houston,95841
+Charlie,36,Chicago,148613
+Alice,51,New York,77697
+Bob,32,Los Angeles,70263
+Charlie,20,New York,101123
+Bob,54,Phoenix,147170
+David,20,Los Angeles,100716
+Bob,36,Houston,55197
+David,24,Houston,87851
+Alice,56,Chicago,134470
+Charlie,23,Chicago,93180
+Eva,25,Los Angeles,97882
+Charlie,50,New York,102579
+Eva,40,Los Angeles,142994
+Alice,35,Phoenix,135311
+Bob,57,Los Angeles,77851
+David,48,Los Angeles,134696
+David,47,Phoenix,105592
+David,53,New York,88130
+Alice,31,Phoenix,148451
+Alice,47,Los Angeles,62663
+Eva,54,Chicago,91108
+Charlie,44,Houston,65023
+Charlie,33,New York,75724
+Bob,27,New York,89135
+Eva,44,Phoenix,108670
+Alice,21,Chicago,90906
+Alice,55,Los Angeles,60508
+David,38,Chicago,102431
+Eva,21,Phoenix,102031
+Eva,47,New York,123453
+Alice,35,Los Angeles,147230
+Eva,35,Phoenix,106774
+David,33,Houston,71779
+David,26,Houston,105872
+Alice,52,Houston,129435
+Alice,48,New York,113513
+Eva,26,New York,124511
+Eva,34,Chicago,72224
+Charlie,51,Chicago,99773
+Eva,26,Houston,132283
+Eva,53,Phoenix,126762
+Bob,46,Houston,108281
+Alice,52,Los Angeles,107214
+Eva,51,Los Angeles,117617
+Bob,27,Houston,130462
+Eva,59,Phoenix,73814
+Alice,21,Chicago,94771
+Charlie,25,Houston,97268
+David,57,Phoenix,55846
+Alice,47,Phoenix,56171
+Alice,58,Los Angeles,89327
+Bob,43,Chicago,66643
+Bob,32,Phoenix,116317
+Bob,29,Houston,141615
+Charlie,49,Phoenix,76126
+Bob,49,Houston,71311
+Alice,33,Phoenix,120187
+Bob,43,Los Angeles,112098
+Eva,44,Chicago,79066
+Eva,29,Phoenix,81099
+David,24,Phoenix,109839
+Eva,57,Los Angeles,126096
+David,31,Phoenix,59248
+Eva,42,New York,67377
+Charlie,44,New York,127800
+David,57,Houston,143109
+Eva,54,Phoenix,58943
+David,53,Houston,124830
+David,33,Phoenix,70722
+Eva,53,Los Angeles,125587
+Alice,27,Chicago,105445
+Bob,32,Chicago,131624
+David,29,Houston,95892
+David,49,New York,124951
+David,32,Phoenix,52318
+Bob,55,Chicago,58123
+David,54,Houston,86770
+David,21,Phoenix,51643
+Eva,37,Los Angeles,73623
+Alice,29,Houston,108926
+Charlie,36,New York,86072
+Charlie,23,Phoenix,134324
+Bob,42,Phoenix,137187
+Charlie,40,Chicago,83241
+Alice,44,Chicago,77365
+Charlie,53,Houston,71187
+Alice,40,New York,83303
+Alice,41,Chicago,113313
+Eva,56,Phoenix,68710
+Charlie,32,Houston,121930
+David,46,Houston,131006
+Bob,22,New York,120659
+David,42,Chicago,67276
+Charlie,39,Chicago,144216
+Charlie,38,New York,76346
+David,54,Phoenix,92670
+Eva,51,Houston,71062
+Charlie,23,New York,60574
+Eva,20,Los Angeles,71780
+Bob,47,New York,56374
+Charlie,42,Houston,128768
+David,23,Phoenix,106049
+Eva,52,Los Angeles,64412
+Bob,31,Los Angeles,148749
+Alice,44,Los Angeles,58418
+Bob,48,Houston,129703
+Eva,29,New York,130779
+Charlie,22,Chicago,70530
+Charlie,34,Houston,60866
+Alice,30,Houston,103481
+Eva,24,Houston,106111
+Charlie,29,Chicago,122715
+Charlie,46,Houston,120638
+Eva,28,Chicago,148021
+Bob,57,Los Angeles,121984
+David,54,New York,149762
+Bob,58,Houston,130721
+Eva,47,Chicago,74552
+Bob,39,Los Angeles,68603
+Charlie,55,Phoenix,117864
+Eva,56,New York,63581
+Charlie,30,Phoenix,83907
+Charlie,38,New York,141960
+Charlie,24,Houston,99807
+Bob,44,Chicago,76287
+David,35,New York,50147
+Alice,50,Houston,124610
+David,33,Los Angeles,81014
+Alice,36,Houston,56523
+Eva,31,Phoenix,116900
+David,54,New York,57461
+Alice,37,Chicago,71544
+Charlie,26,Phoenix,70662
+Eva,44,Los Angeles,139182
+David,49,Houston,131271
+Bob,49,New York,147726
+Eva,22,Los Angeles,119840
+Charlie,31,Chicago,73530
+Charlie,37,Phoenix,120830
+Charlie,59,New York,88685
+Alice,29,Los Angeles,95897
+David,46,Chicago,78932
+Eva,40,Houston,72148
+David,24,Chicago,74608
+David,22,Phoenix,121943
+Alice,59,Los Angeles,98238
+Alice,39,Chicago,60966
+Charlie,27,New York,143574
+David,51,Phoenix,144228
+Alice,52,New York,128827
+Charlie,24,Chicago,89837
+Eva,47,Chicago,58401
+Alice,44,Phoenix,76989
+Alice,28,Phoenix,97485
+Eva,46,Houston,126713
+Eva,58,Chicago,93764
+Alice,47,Chicago,130034
+Eva,54,New York,60193
+Eva,32,Houston,58579
+Charlie,28,New York,106638
+Alice,52,Chicago,144127
+Eva,20,New York,76079
+Charlie,37,Los Angeles,60120
+Alice,32,Phoenix,138732
+Alice,36,New York,106940
+Alice,31,New York,54596
+Eva,35,Chicago,57649
+Eva,48,Houston,121004
+David,20,New York,66025
+Charlie,48,Los Angeles,126749
+David,56,Chicago,140141
+Charlie,38,Houston,138538
+Bob,37,New York,99154
+David,45,Phoenix,104730
+Alice,45,Phoenix,142093
+Bob,24,Phoenix,99529
+Bob,30,Chicago,120362
+Bob,53,Phoenix,120067
+Charlie,42,Houston,79378
+Eva,53,Chicago,51564
+Eva,38,Los Angeles,100890
+Bob,55,Los Angeles,147620
+Eva,40,Phoenix,104456
+Alice,25,Chicago,122186
+Eva,55,Phoenix,108894
+Charlie,33,Phoenix,121767
+Bob,59,Los Angeles,121746
+David,50,Los Angeles,90118
+Alice,31,Chicago,93806
+David,28,Phoenix,140435
+Bob,46,Chicago,70662
+Bob,51,Houston,73450
+David,46,Houston,146250
+Bob,57,New York,65417
+Bob,39,Los Angeles,137288
+Bob,51,Chicago,128171
+Eva,26,Phoenix,146728
+Eva,57,New York,52757
+Charlie,31,Houston,52701
+David,35,Phoenix,70729
+Alice,24,New York,93750
+David,55,New York,88970
+David,37,Houston,77304
+Charlie,45,Phoenix,70964
+Eva,32,Phoenix,66378
+Alice,20,New York,129995
+Alice,52,Los Angeles,99303
+Charlie,26,Los Angeles,136705
+Bob,55,Los Angeles,102952
+David,39,New York,80396
+David,55,Los Angeles,59008
+Alice,49,Houston,115326
+David,43,New York,143165
+Alice,45,Los Angeles,77256
+Eva,40,Chicago,133933
+Eva,28,Phoenix,89755
+Alice,58,New York,119657
+Charlie,42,Phoenix,78367
+David,59,Phoenix,103719
+Alice,35,Los Angeles,77401
+Charlie,24,Chicago,113683
+Eva,31,Los Angeles,122107
+David,46,Chicago,135319
+David,31,Chicago,121804
+Eva,46,Phoenix,146241
+Bob,32,Phoenix,106586
+Alice,48,Chicago,106976
+Charlie,20,Chicago,104466
+Charlie,25,Chicago,124035
+Bob,58,Phoenix,64388
+Charlie,33,Houston,134797
+Charlie,42,Houston,87673
+David,44,New York,57435
+Alice,46,Houston,64494
+David,25,Los Angeles,115716
+Eva,38,Phoenix,86932
+David,48,Houston,102630
+Bob,23,Chicago,72303
+Alice,43,Chicago,85608
+Bob,29,Los Angeles,141304
+Alice,25,New York,144075
+Alice,46,Chicago,63121
+Alice,53,Houston,117313
+Charlie,21,Chicago,146645
+David,52,New York,102915
+Charlie,40,Los Angeles,58625
+Charlie,47,New York,91475
+David,32,New York,132167
+Bob,51,Phoenix,98665
+Alice,47,Chicago,50738
+Bob,23,Chicago,144590
+Bob,40,Houston,93808
+Eva,30,New York,59966
+Charlie,29,Los Angeles,130651
+Alice,25,Chicago,117799
+David,33,Chicago,146902
+Bob,37,Los Angeles,138911
+Eva,45,Phoenix,68617
+Eva,23,Houston,133259
+Bob,20,Chicago,83735
+Bob,34,Chicago,103895
+Eva,34,Houston,78728
+Charlie,43,Houston,60414
+Eva,26,Chicago,105907
+Eva,35,Houston,85073
+Eva,25,Houston,81788
+Charlie,20,Los Angeles,113678
+Charlie,59,Houston,116223
+Charlie,27,Los Angeles,86862
+David,37,New York,129628
+David,52,Houston,52914
+David,49,Los Angeles,117126
+David,51,New York,128265
+Alice,35,Houston,146704
+Alice,31,Houston,53355
+Alice,51,Phoenix,91351
+Bob,38,Chicago,70138
+Alice,58,Phoenix,121651
+Bob,42,Houston,84768
+Eva,27,Phoenix,95639
+Alice,55,Phoenix,89343
+Charlie,39,Houston,101487
+David,25,Chicago,98788
+Bob,20,New York,89273
+Eva,21,Houston,121984
+Alice,34,Houston,129108
+David,38,Los Angeles,50514
+Charlie,26,New York,110640
+Eva,56,Houston,93883
+Charlie,52,Chicago,94517
+Alice,31,New York,135386
+Bob,43,Los Angeles,60137
+Eva,44,New York,55628
+Alice,28,Los Angeles,79760
+Alice,39,Houston,58137
+Bob,22,Houston,136073
+Bob,48,New York,130452
+Alice,58,Chicago,54600
+Bob,53,Phoenix,134440
+Eva,33,New York,138964
+Bob,53,Phoenix,88368
+Eva,30,Houston,53083
+Alice,43,Chicago,132146
+David,33,New York,73600
+Alice,50,Phoenix,119219
+Alice,20,New York,118129
+Alice,27,New York,55628
+Eva,23,Chicago,61643
+David,20,Phoenix,52587
+Bob,51,Houston,129392
+Charlie,28,Houston,123612
+Eva,23,Houston,85811
+Alice,31,Los Angeles,79689
+Alice,43,Los Angeles,66502
+Charlie,40,Chicago,64005
+Bob,21,Phoenix,142037
+David,26,Phoenix,144087
+Alice,24,Los Angeles,125872
+Charlie,55,Los Angeles,118182
+Alice,42,Los Angeles,120610
+Charlie,50,Chicago,67499
+Bob,58,New York,126959
+Charlie,31,New York,54813
+Alice,54,New York,83350
+Eva,23,Phoenix,56042
+Bob,20,New York,97623
+Charlie,26,Chicago,104493
+Eva,53,Los Angeles,67507
+David,49,Phoenix,117837
+David,41,New York,138342
+Charlie,34,Los Angeles,125436
+Bob,42,Phoenix,96384
+Alice,47,Houston,131121
+David,23,Chicago,109236
+Eva,50,Chicago,129790
+Eva,59,Chicago,118058
+Eva,43,Chicago,64287
+David,44,Chicago,115075
+Charlie,33,New York,111064
+David,52,New York,116675
+Bob,52,Houston,80675
+Bob,45,Phoenix,61426
+Charlie,29,New York,75209
+Eva,57,Chicago,142582
+David,37,Los Angeles,83051
+Charlie,43,Los Angeles,87490
+Alice,55,Phoenix,81269
+Bob,55,Houston,137114
+Alice,54,Houston,79027
+Alice,40,New York,55537
+David,25,Houston,131382
+Charlie,40,Houston,104869
+Alice,26,Chicago,77391
+Alice,28,Los Angeles,134792
+Eva,20,New York,145354
+Eva,45,Houston,106055
+Alice,58,Houston,63966
+David,27,Los Angeles,112070
+Alice,29,Phoenix,103474
+Bob,26,New York,121703
+Charlie,49,Houston,84523
+David,25,New York,62432
+Eva,56,New York,68239
+Charlie,49,Phoenix,144417
+Bob,59,Houston,61944
+David,39,New York,57941
+David,42,Houston,84231
+David,23,Houston,118476
+Eva,27,Chicago,72753
+Charlie,49,Phoenix,114246
+Bob,40,New York,94987
+Alice,28,New York,142949
+Alice,38,Houston,114775
+Alice,42,New York,61498
+Charlie,42,Chicago,111781
+David,41,Chicago,53091
+Bob,59,Los Angeles,125347
+Eva,54,New York,73756
+David,54,New York,53270
+Eva,36,Phoenix,147798
+David,33,Houston,54814
+Alice,48,Phoenix,129298
+David,33,Chicago,121573
+Alice,53,New York,136211
+Alice,46,New York,72559
+Bob,33,Phoenix,87491
+Bob,30,Phoenix,60721
+Eva,43,Los Angeles,64951
+Eva,41,Los Angeles,93369
+Charlie,47,Los Angeles,78085
+Charlie,41,Phoenix,119280
+Eva,51,Houston,143840
+Bob,58,Phoenix,90885
+Alice,38,Chicago,55977
+Charlie,47,New York,79107
+Bob,46,Houston,120521
+Alice,43,New York,96345
+Charlie,27,Houston,117464
+Bob,33,Houston,57335
+Eva,40,Chicago,110396
+Bob,50,Chicago,87970
+Charlie,55,Chicago,50522
+Alice,30,New York,113135
+Charlie,55,Chicago,132272
+David,25,Houston,120239
+Eva,57,New York,59670
+David,42,Houston,128146
+Charlie,53,Los Angeles,89592
+Charlie,38,New York,55565
+Bob,20,Houston,104264
+Bob,51,Houston,132158
+David,50,New York,53541
+Bob,22,Los Angeles,59972
+Bob,41,New York,68348
+David,38,Chicago,136619
+Bob,36,Chicago,121648
+David,55,Chicago,50552
+Alice,32,Phoenix,126485
+David,28,Los Angeles,95450
+Bob,46,New York,78762
+Eva,55,Phoenix,136933
+Eva,29,Los Angeles,139764
+David,51,Houston,57858
+Eva,20,New York,78399
+Eva,40,Chicago,147556
+Bob,48,Los Angeles,107784
+Alice,58,Houston,78031
+Alice,56,Los Angeles,109493
+Bob,50,Houston,121097
+Alice,53,Los Angeles,86498
+David,55,Chicago,86380
+Alice,46,Phoenix,67282
+Eva,38,Houston,121217
+Bob,44,New York,79999
+Charlie,44,New York,67587
+Eva,34,Los Angeles,109875
+Eva,48,Phoenix,117318
+David,39,Houston,101920
+Charlie,22,Phoenix,63774
+David,49,Los Angeles,126552
+Bob,21,Houston,62612
+Charlie,41,New York,59771
+Bob,37,New York,52469
+Alice,45,Houston,52501
+Eva,34,Houston,89726
+Alice,42,Houston,64532
+Bob,35,New York,141177
+David,38,Houston,146142
+Eva,31,Houston,136544
+Eva,44,Phoenix,55301
+Charlie,25,Los Angeles,110186
+Alice,26,Phoenix,67465
+Bob,32,Los Angeles,76377
+Bob,32,Los Angeles,98218
+Bob,57,Los Angeles,50205
+Bob,38,New York,130003
+David,29,New York,98450
+Bob,28,Houston,74586
+David,28,Phoenix,73533
+David,20,Phoenix,61963
+Charlie,52,Houston,145746
+Charlie,32,Phoenix,143126
+Alice,40,Houston,144524
+Bob,35,Chicago,51887
+David,43,Phoenix,101356
+Charlie,37,New York,83269
+Bob,43,Chicago,107528
+Charlie,29,Houston,107361
+Charlie,54,New York,72451
+Alice,52,Phoenix,118242
+David,26,Los Angeles,123925
+David,47,Houston,74275
+Charlie,55,Phoenix,52609
+Bob,39,Phoenix,67921
+David,58,Houston,120799
+Alice,21,Houston,113304
+David,53,Houston,120442
+Alice,57,Phoenix,74307
+Bob,53,Chicago,101460
+Charlie,53,Los Angeles,67318
+Bob,23,Phoenix,96712
+Bob,42,Houston,67350
+Alice,57,Chicago,53955
+Bob,53,Los Angeles,108289
+Charlie,23,Chicago,99579
+David,33,Houston,103081
+Alice,54,Los Angeles,54000
+Alice,35,Chicago,139386
+Bob,53,Chicago,114829
+Bob,50,Chicago,99269
+Bob,48,Los Angeles,134289
+Eva,29,Houston,79659
+Charlie,31,Los Angeles,120080
+Bob,45,Chicago,110160
+Eva,29,Chicago,80607
+Alice,52,Houston,51664
+Charlie,41,New York,123954
+Eva,56,Houston,78647
+Alice,31,Los Angeles,84074
+David,55,Chicago,66609
+David,22,Phoenix,95809
+Charlie,52,Chicago,53201
+Eva,48,New York,71914
+Eva,56,New York,127437
+Alice,30,Houston,105715
+David,55,Phoenix,71674
+David,49,Los Angeles,66475
+Bob,43,Houston,139812
+Eva,57,Chicago,113420
+Charlie,49,Phoenix,121955
+David,53,Chicago,149721
+Charlie,55,Phoenix,118549
+Charlie,36,Phoenix,134783
+Bob,40,Phoenix,90322
+David,53,Los Angeles,107311
+Charlie,23,Phoenix,92891
+David,51,Houston,102081
+Bob,56,New York,95329
+Alice,28,Phoenix,71700
+Alice,44,Los Angeles,84255
+Alice,45,Chicago,88273
+Charlie,45,Phoenix,118099
+Charlie,57,New York,135048
+Charlie,30,Los Angeles,77970
+David,52,Los Angeles,54294
+Eva,23,Chicago,109072
+David,41,Phoenix,56094
+Alice,33,Houston,139976
+Eva,52,Phoenix,62318
+Bob,25,Los Angeles,108845
+Eva,41,Phoenix,105166
+Bob,33,Houston,126049
+Charlie,47,Houston,65552
+Alice,54,Los Angeles,105548
+Charlie,20,New York,96787
+David,59,Los Angeles,79623
+Charlie,37,Houston,54795
+Charlie,52,Houston,128949
+Eva,52,Phoenix,85031
+Bob,31,Chicago,111699
+Alice,26,Houston,87735
+Charlie,38,New York,104534
+Charlie,53,Los Angeles,114713
+Bob,25,Houston,77920
+David,37,Phoenix,109155
+David,30,Phoenix,86073
+Eva,32,Chicago,135940
+Bob,37,Los Angeles,107695
+Charlie,51,Houston,136695
+David,23,Chicago,123627
+David,54,New York,78196
+Alice,50,Houston,149969
+Alice,26,Chicago,127482
+Eva,20,New York,133476
+David,24,Phoenix,95163
+David,24,Los Angeles,55205
+Bob,20,Los Angeles,134176
+Alice,55,New York,62026
+Alice,42,Houston,69338
+David,50,Los Angeles,137005
+Eva,59,Los Angeles,67032
+David,49,New York,148408
+Charlie,42,New York,115485
+Alice,43,Phoenix,81668
+Alice,46,New York,135507
+Bob,31,New York,56466
+Eva,22,Chicago,65618
+Bob,41,Houston,116821
+Alice,32,Chicago,85634
+Eva,36,New York,95749
+David,22,Phoenix,126425
+David,47,Houston,107610
+Eva,32,Chicago,72979
+Charlie,55,Chicago,114795
+David,20,Houston,70071
+Bob,33,New York,123691
+David,57,Houston,91367
+David,38,Chicago,141809
+Charlie,55,Los Angeles,110927
+David,30,Houston,130889
+Bob,39,Phoenix,141354
+Bob,47,Chicago,115402
+Bob,29,Chicago,55718
+Alice,58,Los Angeles,70487
+David,32,Los Angeles,89726
+David,58,Los Angeles,112191
+Eva,58,Los Angeles,120766
+Charlie,25,New York,130652
+Alice,42,Houston,55907
+David,32,Phoenix,126115
+Bob,22,Phoenix,149820
+Alice,20,Chicago,78098
+Alice,44,New York,118942
+Bob,49,Chicago,115348
+Eva,48,Phoenix,88094
+David,52,Houston,121134
+Charlie,24,New York,146478
+Eva,28,New York,74949
+Charlie,38,Phoenix,56138
+Charlie,48,Chicago,66080
+David,27,Houston,62657
+Alice,28,New York,88481
+Bob,36,Chicago,50970
+Charlie,42,New York,104537
+Eva,35,Chicago,92426
+David,40,Los Angeles,75860
+David,41,Chicago,61948
+Eva,43,Phoenix,81713
+Charlie,53,Houston,59871
+Charlie,22,New York,76878
+Charlie,46,Chicago,81426
+Eva,31,Phoenix,87544
+Charlie,44,Houston,102880
+Eva,35,Chicago,62437
+David,45,Chicago,99021
+Eva,25,New York,94537
+Bob,42,Los Angeles,74562
+Alice,54,New York,89535
+Alice,49,Los Angeles,57142
+Bob,32,Houston,100725
+Eva,40,New York,79386
+Alice,53,Phoenix,111801
+Bob,31,Phoenix,112210
+Charlie,50,Phoenix,101320
+Bob,31,Phoenix,135524
+Alice,26,Los Angeles,53092
+Eva,51,Chicago,64525
+Eva,54,Houston,61622
+Eva,41,Phoenix,134869
+Alice,30,Houston,149377
+Charlie,47,New York,106645
+Eva,37,Los Angeles,72901
+David,58,Los Angeles,103072
+Charlie,26,Los Angeles,69188
+Bob,31,Chicago,131586
+David,49,Chicago,70687
+Charlie,33,Los Angeles,94327
+Alice,39,Chicago,59156
+David,27,Houston,60672
+Charlie,36,Houston,144559
+Charlie,26,Houston,137069
+Charlie,35,Houston,136399
+Charlie,22,New York,87874
+Eva,30,New York,80621
+David,49,Los Angeles,135806
+Charlie,30,Phoenix,69709
+Bob,30,Chicago,86587
+Charlie,51,Chicago,122823
+Eva,37,Los Angeles,110979
+David,55,Chicago,66387
+David,56,Houston,56993
+Charlie,56,Chicago,144673
+Charlie,37,Los Angeles,138068
+Bob,41,Chicago,118562
+David,47,Los Angeles,135699
+David,45,Chicago,109293
+David,28,Houston,61377
+Alice,53,Phoenix,99490
+David,29,New York,72311
+David,31,New York,114125
+Bob,48,Houston,72216
+Bob,36,Chicago,103886
+Eva,22,Los Angeles,56568
+Bob,28,Chicago,92968
+David,53,Houston,116658
+David,34,Los Angeles,71870
+David,21,Phoenix,53285
+Bob,51,Los Angeles,137790
+Charlie,42,New York,76148
+Alice,20,Chicago,87415
+Eva,32,Phoenix,64454
+Charlie,20,Phoenix,118345
+Alice,48,Los Angeles,62964
+Bob,51,New York,92158
+Eva,48,New York,98844
+Eva,39,New York,131613
+Bob,52,Phoenix,99325
+Charlie,24,Los Angeles,56696
+Alice,37,Phoenix,132407
+David,49,New York,79368
+David,58,New York,86850
+Alice,46,Los Angeles,101486
+David,45,New York,143610
+Charlie,38,Phoenix,135339
+Bob,40,Los Angeles,132243
+David,27,Phoenix,75882
+Bob,54,Houston,62330
+David,48,Houston,102939
+David,52,Phoenix,94153
+Eva,58,Chicago,86964
+David,32,New York,63364
+Eva,44,Houston,133326
+Alice,27,Phoenix,82489
+David,29,Los Angeles,112700
+David,59,Phoenix,78391
+David,53,Houston,80170
+Eva,50,New York,86461
+David,55,Phoenix,97837
+Charlie,54,Houston,72353
+Alice,59,Phoenix,123229
+Bob,22,Phoenix,136206
+Bob,49,Houston,130502
+Eva,59,Chicago,98917
+Alice,42,Los Angeles,82331
+Alice,55,Los Angeles,141476
+Bob,20,Los Angeles,127001
+Eva,46,Houston,74444
+Charlie,24,Chicago,73307
+Alice,29,New York,77271
+Bob,26,New York,95205
+Charlie,49,New York,143912
+Charlie,25,Chicago,125238
+Charlie,21,New York,121881
+David,42,Houston,54169
+Charlie,46,Phoenix,108619
+Charlie,49,New York,59676
+Bob,25,Phoenix,60360
+Eva,36,Chicago,139380
+David,46,Los Angeles,138284
+Bob,46,Phoenix,115443
+Bob,34,Phoenix,56339
+Charlie,44,New York,84204
+David,28,Phoenix,142678
+Eva,39,New York,143583
+Eva,49,Los Angeles,75462
+Bob,31,Phoenix,106791
+David,41,Los Angeles,100918
+Bob,22,Los Angeles,121046
+Bob,46,New York,100769
+Eva,24,Los Angeles,79671
+Eva,42,Phoenix,104909
+Bob,38,Phoenix,89115
+Eva,58,New York,50409
+Eva,21,Los Angeles,65144
+Charlie,24,Los Angeles,56407
+Charlie,59,Los Angeles,69949
+Alice,39,Los Angeles,99449
+Alice,47,Houston,147087
+Bob,27,New York,92842
+Bob,49,Chicago,139802
+Bob,54,Chicago,144948
+Bob,44,Houston,87669
+Eva,32,Los Angeles,53836
+Alice,25,Phoenix,71433
+Bob,33,Los Angeles,69769
+Charlie,58,Los Angeles,61977
+Eva,35,Chicago,97450
+Alice,20,Houston,67451
+Eva,24,New York,72104
+David,42,Los Angeles,98606
+Bob,50,New York,89129
+Charlie,52,New York,98155
+Alice,51,Houston,146345
+Eva,56,Phoenix,52075
+Alice,23,Los Angeles,131538
+David,55,Chicago,108686
+Charlie,39,Chicago,90811
+Eva,54,Chicago,89873
+David,37,New York,88401
+Charlie,23,Phoenix,96856
+Bob,28,Phoenix,107210
+Alice,21,Houston,63880
+David,35,New York,75499
+Alice,28,Phoenix,147340
+Alice,42,Chicago,95881
+David,30,Chicago,143576
+David,32,Chicago,70501
+Eva,23,Phoenix,122833
+Charlie,42,Chicago,120717
+Bob,32,Phoenix,115809
+Charlie,45,Phoenix,55251
+Bob,46,Los Angeles,88174
+Bob,20,Chicago,66556
+Eva,58,Phoenix,89504
+Charlie,47,Phoenix,124879
+David,56,Chicago,70825
+Alice,41,Chicago,149931
+Eva,41,Chicago,91999
+Eva,26,Houston,146792
+Eva,32,Chicago,129617
+David,27,Los Angeles,147267
+Alice,23,New York,84484
+Bob,30,Phoenix,72794
+David,47,Chicago,146585
+Charlie,44,Houston,143001
+Charlie,29,Phoenix,139729
+David,56,Phoenix,135578
+Eva,28,Los Angeles,100729
+David,29,Houston,67514
+Alice,55,Phoenix,119149
+Bob,21,Los Angeles,57122
+Bob,58,Houston,70044
+Bob,40,Houston,110925
+Bob,45,Chicago,99344
+Eva,45,Houston,76043
+Charlie,25,Los Angeles,65197
+Charlie,20,Houston,79253
+David,59,Houston,96608
+Bob,26,Houston,84830
+Charlie,26,Chicago,117594
+Alice,59,Phoenix,76756
+David,37,Houston,117068
+Eva,31,New York,110012
+Charlie,37,Phoenix,94183
+Bob,57,New York,75685
+Eva,50,Houston,122452
+Alice,29,Chicago,62343
+Alice,32,Los Angeles,64440
+Alice,37,Phoenix,129617
+Eva,56,Houston,110879
+Charlie,52,New York,106013
+Charlie,23,Houston,59202
+Bob,32,Los Angeles,115065
+Eva,57,Houston,55552
+Charlie,27,New York,149678
+David,25,New York,59320
+Bob,37,Houston,119197
+Charlie,38,Houston,88235
+David,38,Phoenix,148343
+Bob,37,Chicago,66332
+Alice,53,Los Angeles,102649
+Alice,30,Chicago,97878
+David,29,Houston,78456
+Alice,46,Chicago,131937
+David,24,Los Angeles,118517
+Bob,45,Chicago,117516
+Charlie,57,Los Angeles,117961
+Bob,27,New York,107450
+David,53,New York,72211
+Eva,37,Houston,71756
+Eva,59,Chicago,83196
+David,37,New York,132557
+Alice,58,Chicago,58140
+David,28,New York,135628
+Charlie,58,Houston,76105
+Bob,43,New York,78585
+David,54,New York,116036
+Charlie,57,Los Angeles,105637
+Eva,47,Houston,134581
+David,24,Phoenix,70955
+Alice,22,Chicago,119517
+David,45,Phoenix,96359
+Eva,26,Phoenix,56990
+Charlie,30,Los Angeles,107944
+David,39,Phoenix,63154
+David,35,New York,91604
+Alice,40,Los Angeles,81864
+David,35,Los Angeles,142702
+Bob,55,Los Angeles,76716
+David,27,Houston,101381
+Charlie,56,Phoenix,97842
+Bob,48,Los Angeles,63137
+Alice,29,New York,103537
+Charlie,56,New York,121626
+Alice,43,Los Angeles,89970
+David,55,Houston,73225
+David,48,Chicago,108005
+David,38,Los Angeles,58132
+Eva,34,Chicago,74078
+Eva,59,Houston,56116
+Eva,40,Los Angeles,79720
+Bob,56,Los Angeles,100528
+Eva,28,New York,116506
+David,59,Los Angeles,57102
+David,33,Los Angeles,127566
+Alice,41,Los Angeles,65108
+Charlie,52,New York,109648
+Charlie,52,Chicago,139168
+Bob,50,New York,137330
+Charlie,29,New York,91297
+Bob,47,Los Angeles,79795
+Alice,48,Los Angeles,92077
+David,43,Phoenix,143069
+David,48,Phoenix,90475
+Bob,22,Houston,136601
+Eva,40,Phoenix,85509
+Alice,42,Los Angeles,80901
+David,52,Houston,69454
+David,27,Chicago,127285
+Alice,41,Phoenix,62949
+Bob,40,Phoenix,104421
+Eva,39,Los Angeles,94406
+Bob,45,Los Angeles,97779
+Alice,57,New York,53944
+Charlie,44,New York,131948
+Bob,39,Phoenix,97597
+Charlie,33,Phoenix,98074
+Alice,47,Houston,80808
+Charlie,42,Phoenix,110826
+David,47,Los Angeles,114644
+Charlie,23,Los Angeles,116841
+Eva,53,Houston,123147
+Eva,49,Chicago,129278
+Alice,41,Chicago,118434
+Eva,22,Los Angeles,62303
+Charlie,58,New York,66231
+David,44,Chicago,78672
+Alice,37,New York,108508
+Bob,33,Los Angeles,55889
+David,29,Los Angeles,106880
+Bob,45,New York,134156
+Alice,57,Los Angeles,71921
+Bob,34,Phoenix,109390
+David,49,Los Angeles,80923
+Eva,27,Phoenix,71629
+Alice,47,Houston,102135
+Eva,48,New York,141723
+Eva,42,Chicago,92219
+Eva,24,Houston,81426
+David,23,New York,148715
+Charlie,44,Chicago,67108
+Eva,59,Phoenix,62672
+Charlie,46,Chicago,84457
+Alice,29,Phoenix,109361
+Bob,27,Los Angeles,100512
+Eva,40,Los Angeles,82600
+Charlie,31,Phoenix,73224
+Alice,26,Houston,146665
+David,48,Chicago,106493
+Alice,22,Phoenix,111584
+David,59,Houston,108332
+Bob,47,Chicago,141195
+Bob,51,Houston,59107
+Charlie,55,Phoenix,105877
+David,32,Chicago,53842
+David,20,Chicago,105979
+Bob,43,Houston,147841
+Alice,25,Los Angeles,70066
+Alice,20,Chicago,74639
+Charlie,55,Houston,149286
+Bob,30,Los Angeles,97391
+Bob,49,New York,101767
+Eva,37,Houston,89848
+Charlie,38,Chicago,74659
+Bob,30,New York,110198
+Eva,39,Phoenix,84296
+David,57,New York,109967
+Eva,33,New York,114984
+Bob,23,New York,52046
+Alice,56,Los Angeles,85401
+Charlie,23,Los Angeles,71484
+David,55,Los Angeles,71054
+Alice,27,New York,61414
+Charlie,30,Chicago,138879
+David,40,Chicago,137354
+David,48,New York,129713
+Bob,28,New York,92734
+Eva,28,Chicago,98977
+Alice,37,Houston,92332
+Eva,37,Phoenix,141533
+Bob,25,New York,77341
+Bob,51,New York,109033
+Alice,49,Los Angeles,79730
+David,36,Los Angeles,127325
+Charlie,42,New York,118826
+David,55,Houston,124622
+Eva,55,Houston,149153
+Alice,36,Los Angeles,97800
+Bob,47,Phoenix,143176
+David,52,New York,100417
+Alice,22,Houston,66857
+Charlie,31,Houston,66363
+Bob,38,New York,64517
+David,44,Phoenix,107072
+Bob,44,Los Angeles,134911
+Eva,20,New York,82749
+Charlie,28,Phoenix,133508
+Charlie,43,Chicago,64698
+Charlie,21,Chicago,130996
+Eva,49,Phoenix,140589
+David,58,Los Angeles,64150
+David,58,New York,133432
+David,37,Houston,55840
+David,39,New York,92141
+David,45,Los Angeles,104723
+Alice,25,Chicago,125406
+Eva,41,New York,66787
+Charlie,54,Phoenix,84158
+David,53,New York,78963
+David,58,New York,116467
+Charlie,47,Chicago,90161
+Charlie,57,Chicago,120079
+Alice,24,Houston,115533
+Eva,39,Chicago,93017
+Bob,53,Chicago,121589
+Alice,41,New York,70467
+Bob,24,Chicago,105282
+Alice,45,New York,125854
+Eva,27,New York,121815
+Eva,56,Phoenix,84561
+Bob,51,New York,149050
+David,22,Houston,130074
+David,45,New York,91385
+David,32,New York,96222
+Bob,25,Los Angeles,92324
+David,55,Houston,116652
+Charlie,50,Los Angeles,53820
+Charlie,29,Phoenix,55748
+Eva,37,New York,60182
+Bob,49,Houston,67007
+David,31,Houston,141979
+Charlie,54,Phoenix,88166
+David,53,Chicago,63334
+Alice,48,Houston,61889
+David,42,Chicago,54450
+Eva,45,Phoenix,70111
+Alice,47,Chicago,67661
+Bob,37,Phoenix,120300
+David,53,New York,84456
+David,53,New York,136838
+Alice,45,New York,134403
+Eva,40,Los Angeles,56987
+Eva,27,Houston,128253
+Eva,20,Phoenix,56953
+Bob,32,Chicago,101197
+Alice,27,Phoenix,95002
+Charlie,43,Los Angeles,100160
+Bob,58,Chicago,75125
+Eva,22,Los Angeles,142626
+Eva,29,Chicago,80165
+David,50,Houston,80044
+Bob,46,New York,88151
+Alice,32,New York,60933
+Eva,38,Houston,64752
+Charlie,59,Houston,105677
+David,49,New York,109008
+Alice,58,Phoenix,50418
+Alice,26,Chicago,148027
+Alice,22,Phoenix,51381
+David,33,Phoenix,113645
+Charlie,36,Houston,84372
+Eva,51,New York,97239
+David,28,Chicago,73916
+David,59,New York,111037
+Charlie,51,New York,72271
+Alice,45,New York,65833
+Eva,38,Houston,134002
+Bob,39,New York,145343
+Alice,48,New York,66557
+Alice,21,Chicago,81467
+Charlie,46,Houston,69160
+Bob,50,Phoenix,50143
+Eva,41,Los Angeles,143007
+Eva,31,New York,127653
+Eva,55,New York,63739
+Charlie,54,Chicago,50055
+Bob,20,Phoenix,96494
+Bob,44,Los Angeles,124390
+Alice,52,Chicago,62192
+David,24,Los Angeles,111297
+Bob,49,Chicago,92506
+Eva,38,Chicago,112207
+Eva,57,Houston,114858
+David,59,Chicago,107291
+David,22,Phoenix,71018
+Alice,53,Houston,141600
+Alice,45,Los Angeles,63128
+Charlie,47,Houston,76274
+Eva,42,Los Angeles,134828
+Charlie,26,Los Angeles,116214
+Eva,49,Los Angeles,127951
+Charlie,52,Chicago,115896
+Alice,59,Phoenix,73424
+Bob,43,Houston,76980
+David,57,Los Angeles,59725
+Eva,30,Phoenix,125290
+Alice,29,Los Angeles,97246
+Alice,21,Los Angeles,50378
+Alice,20,New York,77451
+Charlie,23,Los Angeles,54578
+David,45,New York,105968
+Alice,32,New York,104323
+Charlie,23,Los Angeles,109623
+Alice,54,Phoenix,107044
+Charlie,47,Phoenix,122377
+Bob,21,Chicago,107347
+Charlie,28,New York,131532
+Eva,58,Phoenix,64623
+David,53,Phoenix,66014
+Charlie,51,Chicago,134959
+David,49,New York,126156
+Charlie,33,Los Angeles,144966
+David,34,New York,148929
+Bob,48,Houston,62257
+Eva,36,Phoenix,132059
+Eva,55,Chicago,83738
+Eva,44,New York,130370
+Charlie,26,Chicago,129153
+Eva,38,Houston,94428
+Alice,53,Los Angeles,118357
+Alice,28,Los Angeles,101343
+Eva,34,Phoenix,69837
+Eva,38,New York,74882
+Charlie,59,Houston,115806
+Eva,44,New York,120890
+David,32,New York,56581
+Bob,29,Chicago,68751
+Charlie,53,Phoenix,87524
+Charlie,53,Phoenix,78776
+Alice,44,New York,123982
+Charlie,35,New York,122069
+Charlie,59,Houston,103299
+Bob,26,New York,143406
+David,37,Phoenix,144012
+Bob,28,Chicago,121731
+David,21,Houston,144629
+Alice,27,Chicago,91686
+Bob,40,New York,73446
+Bob,28,Houston,99445
+Bob,20,Chicago,138015
+Eva,22,Houston,98055
+Eva,52,Los Angeles,112768
+Bob,42,Los Angeles,147199
+Charlie,30,Phoenix,117308
+Alice,50,Houston,92281
+Charlie,28,Houston,61338
+Alice,41,Phoenix,50228
+Alice,23,Los Angeles,97843
+Eva,25,Houston,115706
+Alice,47,Phoenix,82782
+Bob,46,Phoenix,85102
+Bob,32,Houston,62463
+Alice,20,Los Angeles,76587
+Eva,23,Chicago,56336
+Charlie,52,Los Angeles,110258
+Eva,40,Houston,96085
+Eva,34,Houston,92810
+Charlie,44,Houston,71171
+Bob,23,Los Angeles,133680
+David,52,Chicago,140368
+Eva,29,Chicago,86931
+Bob,26,Phoenix,130972
+Alice,23,Phoenix,143785
+Eva,48,New York,95315
+Eva,23,New York,125499
+Alice,35,New York,95383
+David,52,New York,52484
+David,58,Chicago,101341
+Charlie,48,Houston,134655
+Alice,25,Chicago,124765
+Bob,21,Chicago,75530
+Bob,37,Phoenix,76046
+David,28,Chicago,78135
+Charlie,29,New York,139230
+Charlie,33,Phoenix,50936
+Bob,44,New York,114700
+Charlie,24,Phoenix,70630
+David,27,Phoenix,121150
+David,25,Los Angeles,116496
+Charlie,59,Phoenix,64446
+David,40,Los Angeles,72683
+David,23,Houston,131648
+Charlie,21,New York,54995
+David,29,Chicago,109355
+Alice,46,Houston,139919
+David,21,Chicago,118124
+Eva,58,New York,75616
+Bob,41,Chicago,51436
+Alice,32,Phoenix,129925
+Charlie,26,Houston,55781
+Bob,52,Los Angeles,53177
+Eva,40,Chicago,91913
+Bob,32,Houston,74004
+David,42,Los Angeles,122875
+Bob,40,New York,61326
+Charlie,53,New York,149287
+David,52,Houston,115621
+David,29,Los Angeles,136178
+Eva,56,Houston,134614
+Bob,23,Houston,81060
+Eva,28,Los Angeles,79110
+David,48,Phoenix,91528
+David,33,Chicago,80501
+Eva,43,Chicago,142431
+David,27,Chicago,147662
+Bob,32,Houston,59998
+Alice,22,Chicago,85773
+Eva,56,Houston,124082
+Charlie,33,Houston,68713
+Alice,43,Los Angeles,94484
+Charlie,59,New York,142265
+David,29,Los Angeles,88330
+Alice,59,Phoenix,122333
+David,35,Chicago,126474
+David,31,Los Angeles,142832
+Eva,29,Los Angeles,99234
+Charlie,21,Los Angeles,82078
+Bob,46,Phoenix,147062
+Eva,31,Phoenix,100045
+Eva,51,Chicago,113294
+Charlie,31,New York,124408
+Eva,21,Chicago,73514
+Charlie,28,New York,81527
+Eva,45,New York,50955
+Alice,50,Phoenix,81744
+Charlie,53,Phoenix,111601
+Bob,43,Los Angeles,140292
+Eva,40,Chicago,145960
+Alice,28,New York,139808
+Bob,20,New York,53777
+Eva,54,New York,68704
+Eva,50,Los Angeles,97511
+David,58,Phoenix,78935
+Eva,40,Phoenix,52653
+Bob,57,Los Angeles,73717
+Bob,42,Chicago,55761
+Alice,42,Chicago,148992
+David,40,Los Angeles,118920
+Alice,27,Phoenix,111097
+Alice,21,Chicago,148151
+Eva,50,New York,85856
+Alice,32,New York,93818
+Charlie,25,Phoenix,76297
+David,41,Los Angeles,136653
+Eva,25,Los Angeles,139764
+Charlie,36,Chicago,140906
+Bob,43,Phoenix,132208
+David,57,Phoenix,66368
+Bob,59,Chicago,90618
+Bob,58,Phoenix,120333
+Eva,20,Phoenix,121442
+Charlie,29,Chicago,54004
+David,35,Phoenix,106145
+Eva,24,Chicago,69574
+Alice,48,Houston,76489
+David,55,Los Angeles,131352
+Eva,40,Los Angeles,131086
+David,26,Phoenix,132201
+David,51,New York,105705
+Eva,45,New York,137691
+Bob,36,Los Angeles,61043
+Bob,24,New York,120577
+Eva,33,Chicago,91828
+David,53,Chicago,92965
+Bob,37,Houston,70764
+Charlie,21,New York,62178
+Alice,45,Los Angeles,129454
+Alice,42,Houston,133036
+Charlie,42,Phoenix,97512
+Charlie,37,Chicago,91797
+Charlie,23,Los Angeles,128100
+David,39,Los Angeles,93586
+Bob,49,New York,113504
+Charlie,24,Los Angeles,127555
+Eva,40,Phoenix,50347
+Alice,50,New York,120045
+Alice,35,New York,142325
+Charlie,53,Houston,97142
+Bob,24,New York,105946
+Charlie,39,Houston,81502
+Eva,57,Phoenix,119150
+Charlie,20,Los Angeles,52102
+David,37,Phoenix,120233
+Charlie,37,New York,65526
+David,59,Los Angeles,57904
+Bob,38,Los Angeles,87139
+Bob,25,Chicago,144035
+Eva,54,Phoenix,110829
+Bob,23,Houston,102453
+David,20,Phoenix,62158
+Bob,55,Phoenix,59089
+David,45,Los Angeles,133198
+Eva,40,Phoenix,86405
+David,49,Phoenix,120856
+Charlie,21,Phoenix,78292
+Bob,34,Chicago,122115
+Alice,58,Los Angeles,65206
+Charlie,24,Houston,63913
+David,26,New York,64070
+Charlie,37,Los Angeles,77685
+Charlie,49,Chicago,139404
+Charlie,21,Houston,62006
+Charlie,36,New York,111044
+David,22,Los Angeles,144487
+Bob,34,New York,118217
+Bob,44,Chicago,75015
+Charlie,25,Phoenix,147613
+Alice,41,New York,131266
+Bob,28,Los Angeles,134128
+David,28,Chicago,78180
+David,53,Chicago,96972
+Bob,25,Chicago,64620
+David,52,Phoenix,109813
+David,20,Phoenix,56899
+Eva,26,Los Angeles,132496
+David,34,Chicago,130464
+Bob,57,Houston,142489
+Bob,48,Chicago,76740
+Alice,36,Los Angeles,82363
+Charlie,49,Chicago,134609
+Bob,38,Chicago,142289
+David,49,Houston,63159
+Alice,57,Los Angeles,103974
+Eva,23,Chicago,56548
+Alice,30,Phoenix,112794
+David,59,New York,56025
+Bob,52,Houston,78292
+Alice,52,Houston,140423
+David,48,Los Angeles,64935
+Eva,34,Phoenix,136079
+Alice,51,Phoenix,120256
+David,54,Phoenix,136344
+Charlie,57,Los Angeles,83655
+Bob,55,Los Angeles,89202
+David,23,Los Angeles,136829
+Charlie,33,Chicago,111320
+Bob,38,Chicago,132083
+Bob,37,Houston,75786
+Bob,54,Houston,95756
+Charlie,54,New York,50182
+Alice,39,New York,76135
+Charlie,24,Houston,82611
+Charlie,31,New York,54728
+David,41,Chicago,110508
+David,23,Houston,132892
+Eva,54,Los Angeles,130420
+Charlie,39,Phoenix,115626
+Charlie,46,Los Angeles,112100
+Eva,28,New York,76083
+Charlie,34,Los Angeles,86055
+Charlie,55,Houston,133197
+Eva,32,Houston,117394
+Eva,37,New York,94746
+Eva,43,Houston,132045
+Bob,37,Los Angeles,109633
+David,52,Phoenix,139571
+Eva,31,New York,97395
+Bob,22,Phoenix,148867
+David,42,Chicago,74850
+Eva,24,Phoenix,110690
+Charlie,35,Houston,143978
+Charlie,37,Los Angeles,121935
+David,59,Phoenix,138634
+Alice,33,Phoenix,65850
+David,51,Los Angeles,118385
+Bob,55,New York,134819
+Charlie,23,Los Angeles,55636
+Charlie,45,Chicago,81630
+Eva,48,Phoenix,141339
+Bob,38,Los Angeles,104885
+Alice,51,Phoenix,118613
+Bob,43,New York,104926
+Bob,30,Phoenix,80798
+Bob,33,Phoenix,100566
+Bob,33,Los Angeles,75162
+Alice,33,New York,81889
+Bob,39,Chicago,140221
+Alice,21,Los Angeles,118823
+David,23,Los Angeles,117778
+Bob,32,New York,120358
+Eva,28,Houston,147084
+Alice,30,Phoenix,147426
+Alice,26,Los Angeles,136224
+Bob,51,New York,67456
+Eva,51,Los Angeles,117906
+Eva,41,New York,75416
+Bob,33,New York,74789
+Eva,27,Chicago,130483
+Alice,48,New York,57051
+Bob,38,New York,63903
+Bob,49,Houston,69635
+Bob,46,Phoenix,64228
+David,35,Chicago,112580
+Bob,21,Phoenix,80693
+Charlie,45,Los Angeles,74921
+Charlie,38,Chicago,125591
+Alice,59,Chicago,140840
+David,42,New York,91259
+David,47,Houston,55451
+Eva,31,New York,110074
+Bob,58,Houston,60329
+Charlie,20,Chicago,132805
+David,29,Chicago,139047
+Charlie,42,Houston,59710
+Charlie,25,New York,149474
+Bob,43,New York,131389
+Charlie,26,Chicago,82163
+Alice,42,New York,116465
+Alice,43,Chicago,89217
+David,21,Chicago,52860
+David,46,Los Angeles,82189
+Eva,51,Houston,93563
+Charlie,39,Houston,105586
+David,45,Los Angeles,125662
+Bob,27,Los Angeles,54995
+David,31,Phoenix,99992
+Alice,37,Chicago,120593
+Charlie,20,Phoenix,71327
+Alice,31,Chicago,98205
+David,56,Houston,90502
+David,55,Phoenix,118603
+Alice,33,Chicago,66322
+Eva,28,Houston,53124
+Eva,58,Houston,131864
+David,30,Los Angeles,102215
+Eva,45,Los Angeles,69176
+Alice,29,Phoenix,143395
+Charlie,40,New York,132316
+David,24,New York,56546
+Bob,59,Houston,95310
+Eva,36,Chicago,135851
+Eva,38,Phoenix,90411
+Bob,34,Phoenix,122725
+Bob,43,Phoenix,148448
+Alice,55,Chicago,104950
+Alice,50,Houston,67604
+Eva,23,Chicago,77487
+Charlie,30,Phoenix,107111
+Alice,52,Chicago,59901
+Alice,41,Houston,75827
+David,53,New York,67295
+David,38,Phoenix,82876
+Alice,53,New York,84593
+Charlie,32,Los Angeles,121061
+Eva,22,New York,70814
+Bob,45,Los Angeles,106785
+Alice,50,Chicago,87092
+Charlie,48,Los Angeles,93677
+Charlie,37,New York,89405
+Charlie,34,Houston,149946
+Alice,33,Houston,132405
+Alice,53,New York,147154
+Charlie,42,New York,127620
+Charlie,44,Los Angeles,139373
+Alice,50,New York,115142
+Eva,30,New York,128623
+Alice,23,New York,101682
+David,51,New York,117651
+Charlie,52,Phoenix,60870
+Eva,33,Phoenix,137692
+Bob,59,Houston,68659
+Alice,20,Los Angeles,102774
+Charlie,44,Houston,87238
+Alice,40,Houston,112236
+Bob,46,Los Angeles,132130
+Alice,47,Los Angeles,118513
+Eva,43,Houston,119353
+Bob,46,New York,142504
+David,29,New York,58758
+David,53,Chicago,148509
+Charlie,46,Chicago,119723
+David,51,Chicago,93796
+Alice,51,Houston,53264
+Eva,28,Los Angeles,98680
+David,56,Phoenix,73272
+Charlie,37,Los Angeles,69690
+Alice,50,Phoenix,83141
+Charlie,21,Los Angeles,135527
+Charlie,49,Los Angeles,87969
+Eva,36,Phoenix,112954
+Eva,40,New York,68587
+Charlie,28,Chicago,133622
+Charlie,56,Houston,106566
+David,49,Houston,143047
+David,35,New York,86361
+Bob,33,New York,126602
+Eva,45,Houston,94797
+David,57,Phoenix,76098
+Charlie,36,Houston,76914
+David,31,Los Angeles,126538
+Bob,22,Phoenix,136949
+David,53,New York,140799
+Charlie,48,Houston,146985
+David,46,New York,96741
+David,21,Phoenix,107326
+Eva,46,Los Angeles,92925
+Eva,28,Los Angeles,133999
+Bob,39,New York,98651
+Bob,47,Phoenix,125279
+David,55,Los Angeles,73572
+Eva,42,Los Angeles,144056
+Eva,45,Los Angeles,90080
+David,44,Phoenix,59766
+Eva,40,Los Angeles,146168
+Alice,56,Phoenix,50046
+Charlie,44,New York,132003
+Alice,50,Phoenix,64712
+Alice,32,New York,84704
+Alice,48,New York,51093
+Eva,24,Los Angeles,57954
+David,21,New York,141226
+Bob,25,New York,64567
+Charlie,41,Chicago,94640
+Charlie,44,Chicago,131451
+Alice,28,Chicago,127803
+Bob,50,Houston,78328
+David,52,Phoenix,148873
+Bob,41,Phoenix,119194
+Bob,23,Chicago,146921
+Charlie,40,Los Angeles,149963
+Eva,37,Chicago,147353
+Alice,37,Phoenix,60044
+Eva,31,Chicago,69556
+Charlie,38,Los Angeles,128919
+Bob,55,Phoenix,131555
+Alice,41,New York,115286
+David,54,Los Angeles,142327
+David,53,Houston,133450
+Bob,29,Chicago,148197
+Eva,47,Phoenix,77384
+Eva,43,Los Angeles,55606
+Alice,56,Houston,59548
+Charlie,53,Phoenix,111848
+Eva,31,Phoenix,106543
+David,28,Chicago,130113
+David,49,Los Angeles,144299
+David,53,New York,108490
+Eva,34,Phoenix,114574
+Bob,50,Los Angeles,143745
+Eva,51,Houston,50781
+Eva,43,New York,121500
+Alice,41,Phoenix,109027
+Charlie,22,Chicago,114183
+Eva,46,Chicago,112539
+Eva,56,New York,133145
+Charlie,29,Phoenix,122795
+David,21,Phoenix,91960
+Charlie,23,Houston,115447
+Eva,37,Houston,112307
+Bob,21,Chicago,55946
+Alice,50,Chicago,79615
+Alice,54,Phoenix,54087
+Charlie,53,Los Angeles,80892
+Charlie,30,Houston,95691
+David,26,New York,87903
+Alice,25,New York,91047
+Charlie,26,New York,68271
+Eva,58,Chicago,68898
+Eva,25,Los Angeles,83334
+Bob,50,New York,111708
+Bob,28,Chicago,58432
+Charlie,37,Houston,86607
+David,42,Houston,127672
+David,23,Los Angeles,92577
+David,35,Chicago,78427
+David,58,Phoenix,118966
+Alice,50,Houston,147791
+David,26,Chicago,100018
+Bob,49,Los Angeles,60528
+Bob,42,Houston,117969
+Alice,30,Chicago,148091
+Charlie,48,Phoenix,108391
+Eva,27,Phoenix,65166
+Bob,47,Los Angeles,136264
+Bob,39,Houston,115079
+Alice,22,Los Angeles,130178
+Bob,27,Phoenix,74994
+Eva,32,Los Angeles,140147
+Alice,39,Houston,106128
+David,50,Houston,118379
+David,50,Chicago,59436
+David,47,Chicago,106974
+Eva,35,New York,134062
+Charlie,43,Chicago,137689
+Bob,50,New York,83675
+Eva,39,Chicago,67369
+Charlie,28,Houston,66471
+Alice,33,Houston,133828
+Eva,58,Los Angeles,131243
+Alice,58,Houston,93294
+Charlie,22,Houston,110031
+Eva,24,New York,77469
+Bob,58,Los Angeles,140056
+Charlie,25,Houston,100834
+Bob,53,Houston,55776
+Alice,44,Phoenix,143252
+Bob,48,Houston,66782
+Eva,41,Phoenix,64987
+Eva,34,Chicago,144167
+David,24,Chicago,103505
+Bob,37,Houston,110396
+David,35,Los Angeles,135563
+Charlie,45,Houston,72994
+Alice,56,Chicago,96919
+Charlie,32,Phoenix,120554
+Alice,58,Phoenix,121029
+Bob,49,Chicago,143900
+Eva,50,Houston,109177
+Bob,54,Chicago,53369
+Alice,39,Chicago,136704
+David,39,Phoenix,68642
+Alice,51,Phoenix,75411
+David,56,Chicago,96953
+Charlie,31,Phoenix,56530
+Eva,27,Houston,73037
+Charlie,25,Houston,121690
+Bob,33,New York,68092
+David,54,Chicago,80824
+David,52,Los Angeles,122821
+Charlie,52,Houston,66485
+Eva,48,Phoenix,122357
+Eva,32,Chicago,126431
+Charlie,49,Los Angeles,83617
+Eva,30,Los Angeles,142135
+Bob,29,Los Angeles,133521
+Alice,39,Los Angeles,98103
+David,42,Houston,86101
+David,43,New York,126102
+David,50,Phoenix,65950
+Alice,33,Houston,77802
+Bob,51,New York,147736
+Charlie,36,Houston,57960
+Eva,38,Phoenix,96943
+Eva,21,Houston,77952
+Alice,35,Phoenix,98981
+David,52,Chicago,135109
+Eva,34,Houston,143291
+Charlie,29,Chicago,125328
+Eva,26,Houston,100254
+David,23,Chicago,59948
+Charlie,26,Chicago,67696
+David,35,Chicago,54350
+David,49,Los Angeles,99467
+Alice,41,New York,114961
+David,30,New York,113991
+Charlie,33,Chicago,117318
+Alice,47,Los Angeles,50597
+Alice,46,Los Angeles,96794
+Charlie,46,Phoenix,94863
+Alice,24,Los Angeles,96488
+Charlie,49,Chicago,68063
+Eva,48,Phoenix,76688
+Alice,35,New York,110730
+Eva,47,New York,105623
+Alice,52,Houston,85174
+David,34,Chicago,126123
+Charlie,24,Houston,105976
+David,45,New York,95737
+Eva,52,Los Angeles,72267
+Charlie,32,Phoenix,59016
+Charlie,33,Houston,56141
+Eva,25,Chicago,114918
+Charlie,43,New York,131678
+Charlie,57,New York,119797
+Alice,50,Phoenix,98848
+Bob,48,New York,58288
+David,41,Houston,92215
+Bob,39,New York,79352
+Charlie,44,New York,123121
+Bob,43,Phoenix,75376
+Alice,30,Los Angeles,55983
+Eva,50,Chicago,124847
+Eva,52,Chicago,148588
+Bob,41,Houston,128511
+Alice,50,Chicago,131609
+Eva,26,Phoenix,113166
+Bob,45,Phoenix,78915
+Bob,25,New York,128873
+David,51,New York,85927
+Alice,47,Houston,137713
+David,45,Los Angeles,60736
+Bob,53,New York,129010
+David,47,Phoenix,134133
+David,36,New York,78633
+Bob,36,Houston,103649
+Eva,35,Houston,98748
+Charlie,50,New York,102338
+Eva,54,Los Angeles,90858
+Alice,25,Chicago,75549
+Eva,28,Phoenix,134198
+Bob,36,Los Angeles,97465
+David,58,Houston,118914
+Alice,59,Phoenix,85761
+Alice,48,Phoenix,90600
+Alice,25,Chicago,149267
+David,20,Houston,66024
+Eva,39,Chicago,61716
+David,43,Chicago,62233
+Charlie,50,Los Angeles,122004
+Alice,58,Houston,117376
+Bob,54,Houston,88248
+David,37,Los Angeles,50762
+Alice,35,Houston,55826
+David,30,Los Angeles,130951
+David,38,Houston,138384
+Eva,47,New York,119691
+David,58,Houston,105749
+Bob,34,New York,70748
+Charlie,37,Chicago,115042
+Charlie,23,Chicago,139930
+David,45,Chicago,113259
+David,44,Phoenix,136402
+David,51,Chicago,127427
+Charlie,43,New York,75455
+David,35,Los Angeles,85185
+Eva,41,Los Angeles,76592
+David,49,Phoenix,67798
+Bob,42,Houston,131028
+Bob,44,Chicago,54290
+Charlie,23,Houston,114194
+Bob,29,Los Angeles,81277
+Charlie,58,New York,69673
+Bob,20,Phoenix,124825
+Charlie,35,Phoenix,85322
+Alice,34,Phoenix,130510
+Bob,25,Chicago,81512
+David,37,Phoenix,115806
+Charlie,23,New York,80795
+Charlie,39,New York,135162
+Eva,38,Phoenix,140863
+Alice,21,Los Angeles,138480
+Alice,27,Los Angeles,88798
+David,28,Phoenix,136506
+Charlie,51,Chicago,52066
+Alice,34,Los Angeles,79982
+Alice,34,Phoenix,100103
+Eva,40,New York,116169
+David,38,Houston,108082
+David,55,Los Angeles,74803
+Alice,59,Chicago,93819
+Bob,51,Houston,124606
+Eva,21,Houston,55205
+Bob,46,Chicago,113060
+Eva,44,Chicago,131430
+Bob,58,Phoenix,74015
+David,51,New York,92168
+Charlie,31,Chicago,111403
+David,55,Chicago,97969
+Alice,31,Houston,121648
+Bob,49,Los Angeles,112299
+Alice,56,Los Angeles,133552
+David,30,Chicago,54593
+Bob,46,New York,127181
+Eva,31,Chicago,124501
+Charlie,27,New York,55652
+David,52,Houston,98777
+David,47,Phoenix,95606
+Charlie,27,Houston,53857
+David,40,Phoenix,54358
+Bob,37,Houston,139540
+Bob,30,Chicago,139290
+David,48,Chicago,141230
+Bob,26,New York,118610
+David,48,Chicago,93886
+David,36,Los Angeles,79074
+Eva,24,Chicago,81800
+Charlie,25,Los Angeles,66170
+Bob,44,Houston,123247
+Charlie,52,Houston,114797
+Eva,32,Phoenix,63876
+Alice,21,Phoenix,134018
+David,32,Chicago,128180
+Bob,45,Chicago,82562
+Alice,20,Phoenix,55180
+Alice,25,Chicago,70131
+Bob,32,Los Angeles,118944
+Alice,50,Houston,121451
+David,37,New York,55197
+David,48,New York,55793
+David,48,Houston,102092
+Eva,31,New York,115541
+Alice,49,New York,52729
+David,21,Los Angeles,144773
+Eva,20,Houston,108476
+David,47,Phoenix,116818
+David,35,Houston,55071
+Bob,36,Chicago,81551
+David,46,Chicago,136077
+David,33,Houston,75792
+David,45,New York,75644
+David,43,Los Angeles,107168
+David,27,Chicago,83438
+Charlie,39,Phoenix,95670
+Charlie,58,Los Angeles,148481
+Eva,21,Phoenix,106538
+Eva,24,New York,123310
+Eva,35,Phoenix,130078
+Charlie,41,Phoenix,134864
+Eva,39,Chicago,108358
+Bob,48,New York,133136
+Alice,53,Phoenix,141886
+Bob,30,Los Angeles,119692
+Alice,44,Houston,52888
+Alice,45,Houston,70174
+David,27,Chicago,146008
+Eva,40,Phoenix,102097
+Alice,55,Los Angeles,133393
+David,43,Los Angeles,118994
+Bob,34,Phoenix,90207
+David,35,Phoenix,144357
+Alice,24,New York,91902
+David,56,Houston,143442
+David,50,Phoenix,105120
+Bob,52,Phoenix,145201
+Bob,59,Los Angeles,102378
+Alice,41,Chicago,87959
+David,21,Houston,94941
+Charlie,43,Houston,103987
+David,20,Houston,55252
+Alice,34,New York,92410
+Charlie,47,Houston,118266
+David,33,Los Angeles,142923
+Bob,57,Phoenix,55836
+Alice,54,Los Angeles,76686
+David,32,New York,63683
+Bob,22,New York,139772
+Alice,53,Los Angeles,69683
+Charlie,34,Chicago,143645
+Charlie,37,Chicago,124454
+Alice,27,New York,137095
+Bob,47,Chicago,127387
+Charlie,43,Los Angeles,62897
+Alice,55,New York,114425
+David,21,Houston,101982
+Alice,27,Chicago,69737
+Alice,31,Chicago,50746
+Alice,59,Los Angeles,116574
+Bob,30,Los Angeles,135100
+Eva,28,Los Angeles,72136
+David,34,Chicago,75247
+Bob,49,Chicago,125356
+Alice,51,New York,84542
+David,46,Chicago,85278
+Bob,36,New York,95170
+Charlie,51,Los Angeles,110552
+David,46,Houston,113254
+Eva,57,Chicago,121171
+Eva,25,Los Angeles,114557
+David,33,Houston,55240
+David,29,Los Angeles,148517
+Alice,41,Houston,106063
+Alice,22,Chicago,134439
+Alice,52,Los Angeles,61943
+David,24,Chicago,136145
+Eva,26,New York,136980
+Charlie,21,Los Angeles,125050
+Eva,59,Houston,55520
+Alice,32,Los Angeles,120416
+Bob,42,Phoenix,121918
+Eva,32,Phoenix,107249
+Alice,36,New York,116772
+David,23,Los Angeles,84393
+Charlie,42,Los Angeles,136272
+Bob,44,Houston,124501
+Eva,25,Houston,54809
+Alice,40,Houston,113933
+Eva,30,Los Angeles,77765
+Charlie,45,Los Angeles,73490
+Bob,46,Phoenix,87975
+Eva,45,Chicago,62013
+Charlie,50,Houston,110977
+Bob,45,Chicago,101338
+Eva,25,Chicago,132075
+Alice,47,New York,78474
+Charlie,20,Los Angeles,74618
+Alice,53,Los Angeles,125308
+Charlie,22,Phoenix,115789
+Alice,29,Los Angeles,148854
+Alice,34,New York,66012
+Eva,59,Los Angeles,66522
+Eva,43,Houston,94320
+Alice,25,Houston,88192
+Charlie,54,Phoenix,112511
+Eva,51,Houston,79854
+Eva,22,New York,117094
+Alice,56,Los Angeles,98819
+Charlie,34,Chicago,129153
+Alice,47,Los Angeles,141048
+David,47,New York,101084
+Alice,20,Los Angeles,142340
+Charlie,41,Los Angeles,53191
+Eva,57,Houston,75100
+Eva,37,New York,73068
+Bob,28,Houston,87613
+Alice,28,Phoenix,97186
+Eva,33,Phoenix,76291
+David,40,New York,125996
+Eva,41,New York,120698
+David,43,Phoenix,84246
+Eva,21,Chicago,142982
+Eva,58,Phoenix,56105
+Charlie,31,Los Angeles,72040
+Eva,44,Phoenix,117332
+David,49,Phoenix,141998
+Charlie,51,Houston,145804
+Eva,41,New York,124700
+Charlie,48,Houston,92766
+Eva,32,Houston,83330
+Bob,48,Houston,144311
+Charlie,21,Los Angeles,55260
+David,51,New York,127720
+Bob,30,Phoenix,127265
+Eva,48,Los Angeles,126167
+Eva,57,Houston,82649
+Bob,41,Los Angeles,148636
+Alice,31,Los Angeles,132705
+Bob,24,Houston,94453
+David,58,Houston,77575
+Eva,34,Los Angeles,83497
+Charlie,55,Los Angeles,117656
+Alice,59,New York,149601
+Charlie,51,New York,59117
+Bob,28,Houston,91381
+Eva,42,Houston,149481
+David,59,Los Angeles,98328
+Bob,54,Chicago,91959
+Bob,55,New York,123739
+Charlie,56,Chicago,118699
+Charlie,51,Los Angeles,112484
+Eva,56,Phoenix,104561
+Charlie,38,Phoenix,79209
+Alice,33,Phoenix,133081
+Eva,31,Phoenix,57065
+David,41,Los Angeles,130993
+Alice,20,New York,52292
+Bob,37,New York,99448
+Charlie,37,Chicago,78365
+David,53,Houston,132635
+Eva,55,Phoenix,123733
+Charlie,55,New York,114536
+Alice,54,Los Angeles,110667
+Bob,47,Houston,117962
+Bob,55,Chicago,78394
+Charlie,52,Chicago,96786
+Eva,44,New York,110290
+Eva,29,Los Angeles,51929
+Charlie,47,Los Angeles,58160
+Charlie,46,New York,104977
+Charlie,33,New York,87614
+David,56,New York,127820
+Charlie,44,New York,61329
+David,48,Los Angeles,60231
+Alice,55,Los Angeles,112121
+Charlie,51,New York,98207
+Charlie,52,Los Angeles,89559
+Eva,46,Chicago,124499
+Charlie,28,Los Angeles,121801
+David,37,Los Angeles,65272
+David,42,Houston,74740
+Charlie,49,Los Angeles,130685
+David,20,New York,88944
+Charlie,26,New York,127390
+Alice,35,New York,115325
+David,41,Phoenix,79861
+David,38,Los Angeles,72516
+David,23,Houston,64308
+David,43,New York,62702
+Charlie,31,New York,72155
+Charlie,20,Phoenix,108708
+Alice,56,Chicago,86214
+Charlie,44,Phoenix,70215
+David,24,New York,128832
+Alice,54,New York,127098
+Bob,22,Los Angeles,94840
+Eva,28,Chicago,81265
+Alice,55,New York,65144
+Eva,24,Houston,71299
+David,23,New York,100196
+Bob,56,Phoenix,147250
+Eva,22,Phoenix,64993
+Alice,32,Los Angeles,67224
+Charlie,45,New York,88575
+Eva,44,New York,70259
+Charlie,53,Los Angeles,65794
+Eva,55,New York,125639
+David,55,Chicago,109325
+Charlie,29,Los Angeles,112062
+Bob,24,Los Angeles,102772
+Alice,31,Chicago,59118
+Bob,46,Houston,64720
+Eva,29,New York,143338
+Eva,45,New York,143859
+Bob,29,Houston,125893
+Eva,48,Phoenix,80534
+David,45,Los Angeles,91682
+Alice,24,Los Angeles,99684
+David,50,Phoenix,86330
+Charlie,53,Chicago,85604
+Alice,49,Phoenix,95868
+Alice,49,Chicago,91236
+Eva,40,Los Angeles,131501
+Charlie,36,New York,52744
+Bob,51,Chicago,72478
+Charlie,58,Los Angeles,113552
+Bob,21,Los Angeles,90623
+Charlie,21,Chicago,129230
+Charlie,50,Houston,59462
+Bob,57,Chicago,109675
+David,21,Los Angeles,84518
+Eva,25,New York,146553
+Eva,34,Phoenix,83970
+Eva,29,Houston,145981
