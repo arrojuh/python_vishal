@@ -1,0 +1,155 @@
+
+import pandas as pd
+import numpy as np
+import random
+
+# Seed for reproducibility
+np.random.seed(42)
+random.seed(42)
+
+# Generate Customers Dataset (500 customers)
+names = ['Alice', 'Bob', 'Charlie', 'Dana', 'Eve', 'Frank', 'Grace', 'Hank', 'Ivy', 'Jack'] * 50
+cities = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Boston', 'Seattle', 'Miami', 'Denver', 'Austin', 'Phoenix'] * 50
+random.shuffle(names)
+random.shuffle(cities)
+customers_data = {
+    'customer_id': range(1, 501),
+    'name': names[:500],
+    'city': cities[:500]
+}
+customers_df = pd.DataFrame(customers_data)
+
+# Generate Orders Dataset (3000 orders)
+products = ['Book', 'Laptop', 'Pen', 'Phone', 'Mouse', 'TV', 'Chair', 'Desk', 'Lamp', 'Headphones']
+orders_data = {
+    'order_id': range(1001, 4001),
+    'customer_id': np.random.choice(customers_df['customer_id'], 3000),
+    'amount': np.round(np.random.uniform(5.00, 500.00, 3000), 2),
+    'product': [random.choice(products) for _ in range(3000)]
+}
+orders_df = pd.DataFrame(orders_data)
+
+# Basic Answers (15)
+1. Answer: 500
+   - Code: len(customers_df)
+
+2. Answer: 3000
+   - Code: len(orders_df)
+
+3. Answer: [Varies, e.g., ~750,000]
+   - Code: orders_df['amount'].sum()
+
+4. Answer: [Varies, e.g., customer_id 103 -> lookup name]
+   - Code: pd.merge(customers_df, orders_df[orders_df['order_id'] == 1001], on='customer_id')['name'].iloc[0]
+
+5. Answer: [Varies, up to ~500.00]
+   - Code: orders_df['amount'].max()
+
+6. Answer: [Varies, depends on random assignment]
+   - Code: orders_df[orders_df['customer_id'] == customers_df[customers_df['name'] == 'Bob']['customer_id'].iloc[0]]['order_id'].count()
+
+7. Answer: ['Book', 'Laptop', 'Pen', 'Phone', 'Mouse', 'TV', 'Chair', 'Desk', 'Lamp', 'Headphones']
+   - Code: orders_df['product'].unique().tolist()
+
+8. Answer: [Varies, e.g., ~50]
+   - Code: customers_df[customers_df['city'] == 'Los Angeles']['customer_id'].count()
+
+9. Answer: [Varies, e.g., ~250.00]
+   - Code: orders_df['amount'].mean()
+
+10. Answer: [Varies, many orders, e.g., ~2900]
+    - Code: orders_df[orders_df['amount'] > 50]['order_id'].tolist()
+
+11. Answer: [Varies, multiple names]
+    - Code: customers_df[customers_df['city'] == 'Chicago']['name'].tolist()
+
+12. Answer: [Varies, down to ~5.00]
+    - Code: orders_df['amount'].min()
+
+13. Answer: [Varies, up to 500]
+    - Code: orders_df['customer_id'].nunique()
+
+14. Answer: [Varies, e.g., ~75,000]
+    - Code: orders_df[orders_df['product'] == 'Laptop']['amount'].sum()
+
+15. Answer: [Varies, customer_id 500 -> lookup name]
+    - Code: customers_df[customers_df['customer_id'] == customers_df['customer_id'].max()]['name'].iloc[0]
+
+# Intermediate Answers (15)
+16. Answer: [Varies, up to 500 customers with cities]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id')[['name', 'city']].drop_duplicates().to_string(index=False)
+
+17. Answer: [Varies, 500 customers with random totals]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name')['amount'].sum()
+
+18. Answer: [Varies, depends on random data]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['amount'].sum().idxmax()
+
+19. Answer: [Varies, e.g., ~300 orders per city on average]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['order_id'].count()
+
+20. Answer: [Varies, e.g., ~250 per city]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['amount'].mean()
+
+21. Answer: [Varies, multiple customers]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name').filter(lambda x: len(x) > 1)['name'].unique()
+
+22. Answer: [Varies, e.g., ~740,000]
+    - Code: orders_df[orders_df['amount'] > 50]['amount'].sum()
+
+23. Answer: [Varies, multiple customers]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name').filter(lambda x: x['amount'].sum() > 100)['name'].unique()
+
+24. Answer: [Varies, e.g., 'Laptop']
+    - Code: orders_df['product'].value_counts().idxmax()
+
+25. Answer: [Varies, depends on random totals]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city').filter(lambda x: x['amount'].sum() < 50)['city'].unique()
+
+26. Answer: [Varies, e.g., ~75,000]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id')[customers_df['city'] == 'Los Angeles']['amount'].sum()
+
+27. Answer: [Varies, multiple possible]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id')[orders_df['product'] == 'Phone']['name'].iloc[0]
+
+28. Answer: [Varies, e.g., ~250]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name').filter(lambda x: len(x) == 1)['amount'].mean()
+
+29. Answer: [Varies, multiple orders]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id')[customers_df['city'].str.startswith('C')]['order_id'].tolist()
+
+30. Answer: [Varies, 500 customers with counts]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name')['product'].count()
+
+# Advanced Answers (10)
+31. Answer: [Varies, 500 percentages]
+    - Code: total = orders_df['amount'].sum(); pd.merge(customers_df, orders_df, on='customer_id').groupby('name')['amount'].sum() / total * 100
+
+32. Answer: [Varies, depends on data]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city').filter(lambda x: len(x) > 1)['amount'].mean().idxmax()
+
+33. Answer: [Varies, ranked list]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('name')['amount'].sum().rank(ascending=False)
+
+34. Answer: [Varies, multiple customers]
+    - Code: overall_avg = orders_df['amount'].mean(); pd.merge(customers_df, orders_df, on='customer_id').groupby('name').filter(lambda x: x['amount'].mean() > overall_avg)['name'].unique()
+
+35. Answer: [Varies, e.g., ~100,000]
+    - Code: spending = pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['amount'].sum(); spending.max() - spending.min()
+
+36. Answer: [Varies, multiple customers]
+    - Code: threshold = orders_df['amount'].quantile(0.5); pd.merge(customers_df, orders_df[orders_df['amount'] > threshold], on='customer_id')['name'].unique()
+
+37. Answer: [Varies, cumulative totals]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').sort_values('customer_id')['amount'].cumsum()
+
+38. Answer: [Varies, depends on data]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['amount'].agg(lambda x: x.max() - x.min()).idxmax()
+
+39. Answer: [Varies, medians per city]
+    - Code: pd.merge(customers_df, orders_df, on='customer_id').groupby('city')['amount'].median()
+
+40. Answer: [Varies, multiple customers]
+    - Code: merged = pd.merge(customers_df, orders_df, on='customer_id'); merged['deviation'] = merged.groupby('city')['amount'].transform(lambda x: x - x.mean()); merged[abs(merged['deviation']) > 50]['name'].unique()
+
+# Note: Answers vary due to random generation. Run the code locally to get exact results.

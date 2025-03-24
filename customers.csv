@@ -1,0 +1,501 @@
+customer_id,name,city
+1,Eve,Miami
+2,Dana,Los Angeles
+3,Frank,Austin
+4,Grace,Los Angeles
+5,Dana,Chicago
+6,Charlie,Austin
+7,Frank,Denver
+8,Jack,Miami
+9,Eve,Boston
+10,Dana,Los Angeles
+11,Dana,Austin
+12,Frank,Miami
+13,Charlie,Chicago
+14,Frank,Los Angeles
+15,Jack,Denver
+16,Jack,Boston
+17,Ivy,Denver
+18,Dana,Seattle
+19,Alice,Phoenix
+20,Bob,Austin
+21,Dana,Houston
+22,Alice,Houston
+23,Jack,Austin
+24,Jack,Boston
+25,Hank,Los Angeles
+26,Charlie,Houston
+27,Jack,Phoenix
+28,Ivy,New York
+29,Frank,Austin
+30,Bob,Los Angeles
+31,Jack,Boston
+32,Charlie,Miami
+33,Dana,New York
+34,Bob,Austin
+35,Ivy,Denver
+36,Bob,Boston
+37,Eve,Boston
+38,Ivy,New York
+39,Hank,Chicago
+40,Bob,Austin
+41,Jack,Austin
+42,Hank,Los Angeles
+43,Eve,Houston
+44,Hank,Miami
+45,Hank,Boston
+46,Jack,Los Angeles
+47,Bob,Los Angeles
+48,Grace,Houston
+49,Frank,New York
+50,Alice,Boston
+51,Ivy,Boston
+52,Grace,Denver
+53,Jack,Chicago
+54,Dana,Miami
+55,Alice,Phoenix
+56,Jack,New York
+57,Hank,Boston
+58,Bob,Chicago
+59,Alice,New York
+60,Ivy,Austin
+61,Alice,Boston
+62,Alice,Seattle
+63,Hank,Miami
+64,Alice,Los Angeles
+65,Eve,Austin
+66,Dana,Miami
+67,Eve,Chicago
+68,Ivy,Seattle
+69,Eve,New York
+70,Dana,Miami
+71,Eve,Los Angeles
+72,Ivy,Miami
+73,Charlie,Miami
+74,Alice,New York
+75,Hank,Austin
+76,Ivy,Houston
+77,Hank,New York
+78,Eve,Boston
+79,Dana,Los Angeles
+80,Hank,Seattle
+81,Bob,Phoenix
+82,Grace,Los Angeles
+83,Charlie,Denver
+84,Grace,Seattle
+85,Grace,Miami
+86,Frank,Miami
+87,Frank,Boston
+88,Jack,Los Angeles
+89,Grace,Austin
+90,Grace,Austin
+91,Hank,Austin
+92,Eve,Miami
+93,Charlie,Los Angeles
+94,Hank,Phoenix
+95,Charlie,Miami
+96,Frank,Miami
+97,Alice,Miami
+98,Jack,Denver
+99,Eve,Boston
+100,Frank,Boston
+101,Alice,Boston
+102,Charlie,New York
+103,Hank,Austin
+104,Dana,Seattle
+105,Frank,Phoenix
+106,Dana,Houston
+107,Bob,Seattle
+108,Dana,Miami
+109,Dana,Los Angeles
+110,Dana,Chicago
+111,Ivy,Austin
+112,Charlie,Phoenix
+113,Jack,New York
+114,Grace,Boston
+115,Ivy,Denver
+116,Jack,Boston
+117,Ivy,Boston
+118,Ivy,Los Angeles
+119,Bob,Los Angeles
+120,Eve,Boston
+121,Ivy,Austin
+122,Hank,New York
+123,Frank,Boston
+124,Dana,Phoenix
+125,Bob,Phoenix
+126,Bob,Seattle
+127,Bob,Denver
+128,Ivy,Seattle
+129,Charlie,Denver
+130,Eve,Los Angeles
+131,Charlie,Seattle
+132,Charlie,New York
+133,Ivy,Houston
+134,Ivy,Miami
+135,Dana,Chicago
+136,Grace,Seattle
+137,Dana,Boston
+138,Eve,Austin
+139,Bob,Los Angeles
+140,Bob,New York
+141,Dana,Houston
+142,Jack,New York
+143,Grace,Boston
+144,Jack,Chicago
+145,Dana,Los Angeles
+146,Eve,Austin
+147,Grace,Denver
+148,Alice,Boston
+149,Jack,Phoenix
+150,Grace,Phoenix
+151,Ivy,Chicago
+152,Frank,Houston
+153,Charlie,Miami
+154,Hank,Chicago
+155,Bob,Seattle
+156,Frank,New York
+157,Hank,Miami
+158,Hank,Houston
+159,Ivy,Denver
+160,Alice,Denver
+161,Alice,Houston
+162,Ivy,Boston
+163,Grace,Miami
+164,Grace,New York
+165,Grace,Denver
+166,Alice,Austin
+167,Jack,Phoenix
+168,Dana,Los Angeles
+169,Hank,Chicago
+170,Ivy,Houston
+171,Alice,Chicago
+172,Bob,Houston
+173,Ivy,Houston
+174,Eve,Chicago
+175,Frank,Austin
+176,Frank,Houston
+177,Eve,Denver
+178,Jack,Denver
+179,Bob,Los Angeles
+180,Alice,Miami
+181,Hank,Houston
+182,Ivy,Seattle
+183,Charlie,Los Angeles
+184,Charlie,Chicago
+185,Alice,Los Angeles
+186,Hank,Denver
+187,Jack,Denver
+188,Grace,Chicago
+189,Hank,New York
+190,Grace,Phoenix
+191,Jack,Boston
+192,Ivy,New York
+193,Ivy,Denver
+194,Hank,Denver
+195,Eve,Seattle
+196,Charlie,Denver
+197,Charlie,Denver
+198,Alice,New York
+199,Charlie,Los Angeles
+200,Charlie,Seattle
+201,Grace,Miami
+202,Eve,Austin
+203,Eve,Seattle
+204,Hank,New York
+205,Grace,Denver
+206,Frank,Houston
+207,Dana,New York
+208,Jack,Los Angeles
+209,Ivy,Denver
+210,Ivy,Seattle
+211,Eve,Austin
+212,Frank,Denver
+213,Hank,Austin
+214,Dana,Phoenix
+215,Dana,Seattle
+216,Ivy,Chicago
+217,Bob,Miami
+218,Grace,Seattle
+219,Frank,Phoenix
+220,Hank,Phoenix
+221,Alice,New York
+222,Jack,Seattle
+223,Grace,Austin
+224,Bob,Miami
+225,Dana,Houston
+226,Bob,Denver
+227,Frank,Austin
+228,Hank,Miami
+229,Hank,Austin
+230,Alice,Denver
+231,Frank,Phoenix
+232,Alice,New York
+233,Bob,Houston
+234,Grace,Houston
+235,Frank,Seattle
+236,Bob,Houston
+237,Alice,Los Angeles
+238,Charlie,Austin
+239,Ivy,Chicago
+240,Alice,Austin
+241,Charlie,Boston
+242,Ivy,New York
+243,Eve,Austin
+244,Grace,Chicago
+245,Hank,Phoenix
+246,Alice,Austin
+247,Charlie,Denver
+248,Hank,Boston
+249,Hank,Phoenix
+250,Grace,Houston
+251,Frank,Los Angeles
+252,Bob,Houston
+253,Eve,Los Angeles
+254,Bob,Miami
+255,Bob,Phoenix
+256,Jack,Los Angeles
+257,Eve,Chicago
+258,Alice,Chicago
+259,Bob,Seattle
+260,Frank,New York
+261,Jack,Miami
+262,Bob,Boston
+263,Eve,Phoenix
+264,Ivy,Miami
+265,Alice,Phoenix
+266,Alice,New York
+267,Bob,New York
+268,Eve,Phoenix
+269,Charlie,Boston
+270,Alice,Chicago
+271,Dana,Los Angeles
+272,Charlie,Chicago
+273,Frank,Chicago
+274,Dana,Chicago
+275,Bob,Austin
+276,Bob,Chicago
+277,Eve,Phoenix
+278,Eve,Houston
+279,Charlie,Austin
+280,Grace,Houston
+281,Jack,Miami
+282,Charlie,Phoenix
+283,Alice,Phoenix
+284,Charlie,Chicago
+285,Eve,Phoenix
+286,Hank,Los Angeles
+287,Frank,Houston
+288,Eve,Houston
+289,Bob,Denver
+290,Dana,Phoenix
+291,Frank,Boston
+292,Eve,Miami
+293,Charlie,Chicago
+294,Dana,Austin
+295,Ivy,Boston
+296,Dana,Chicago
+297,Hank,New York
+298,Frank,Boston
+299,Dana,New York
+300,Jack,Phoenix
+301,Charlie,Boston
+302,Hank,Phoenix
+303,Frank,Seattle
+304,Alice,Boston
+305,Jack,Seattle
+306,Alice,Chicago
+307,Frank,New York
+308,Grace,Houston
+309,Alice,Boston
+310,Bob,Houston
+311,Grace,Denver
+312,Charlie,New York
+313,Bob,Phoenix
+314,Hank,Phoenix
+315,Dana,Seattle
+316,Jack,Seattle
+317,Jack,Los Angeles
+318,Charlie,Austin
+319,Eve,Houston
+320,Jack,Denver
+321,Bob,Boston
+322,Grace,Austin
+323,Alice,Phoenix
+324,Bob,Chicago
+325,Jack,Phoenix
+326,Alice,Austin
+327,Charlie,Los Angeles
+328,Bob,Austin
+329,Ivy,Denver
+330,Frank,New York
+331,Ivy,Los Angeles
+332,Eve,Miami
+333,Grace,Houston
+334,Ivy,Seattle
+335,Frank,Phoenix
+336,Dana,Austin
+337,Ivy,Los Angeles
+338,Alice,Phoenix
+339,Jack,Seattle
+340,Frank,New York
+341,Frank,Chicago
+342,Hank,New York
+343,Charlie,Austin
+344,Frank,Austin
+345,Hank,Los Angeles
+346,Ivy,Miami
+347,Jack,Miami
+348,Ivy,Chicago
+349,Grace,New York
+350,Eve,Houston
+351,Grace,Los Angeles
+352,Charlie,Austin
+353,Alice,Seattle
+354,Alice,Austin
+355,Grace,Austin
+356,Hank,Houston
+357,Eve,Los Angeles
+358,Ivy,Chicago
+359,Jack,Boston
+360,Jack,Miami
+361,Eve,Los Angeles
+362,Frank,Boston
+363,Eve,Phoenix
+364,Grace,Austin
+365,Charlie,New York
+366,Bob,Chicago
+367,Dana,Denver
+368,Eve,Seattle
+369,Jack,Seattle
+370,Charlie,Denver
+371,Frank,Seattle
+372,Frank,Houston
+373,Grace,New York
+374,Alice,Chicago
+375,Hank,Denver
+376,Alice,Boston
+377,Ivy,Chicago
+378,Dana,Chicago
+379,Hank,Seattle
+380,Frank,Denver
+381,Bob,Boston
+382,Charlie,Boston
+383,Hank,Houston
+384,Ivy,Miami
+385,Grace,New York
+386,Alice,Denver
+387,Hank,Phoenix
+388,Frank,Boston
+389,Charlie,Chicago
+390,Jack,Chicago
+391,Ivy,Houston
+392,Dana,Denver
+393,Grace,Chicago
+394,Jack,Houston
+395,Eve,Seattle
+396,Ivy,Houston
+397,Dana,Chicago
+398,Hank,Seattle
+399,Bob,Los Angeles
+400,Bob,Seattle
+401,Grace,Seattle
+402,Bob,Boston
+403,Jack,New York
+404,Alice,Boston
+405,Grace,Denver
+406,Dana,Los Angeles
+407,Hank,Denver
+408,Bob,Boston
+409,Jack,Los Angeles
+410,Dana,Houston
+411,Grace,Seattle
+412,Frank,Houston
+413,Charlie,Denver
+414,Eve,Miami
+415,Hank,Miami
+416,Bob,Denver
+417,Ivy,Miami
+418,Eve,Chicago
+419,Ivy,Phoenix
+420,Frank,Phoenix
+421,Grace,Seattle
+422,Ivy,Chicago
+423,Dana,Miami
+424,Frank,Austin
+425,Alice,Boston
+426,Ivy,Seattle
+427,Frank,New York
+428,Frank,Miami
+429,Grace,Houston
+430,Bob,Denver
+431,Eve,Denver
+432,Alice,Miami
+433,Charlie,Seattle
+434,Alice,Phoenix
+435,Dana,Miami
+436,Dana,New York
+437,Eve,Denver
+438,Frank,Boston
+439,Dana,Los Angeles
+440,Charlie,Seattle
+441,Dana,Phoenix
+442,Frank,Houston
+443,Jack,Miami
+444,Grace,Boston
+445,Dana,Seattle
+446,Dana,Seattle
+447,Jack,Austin
+448,Eve,Seattle
+449,Alice,Houston
+450,Alice,Los Angeles
+451,Charlie,Miami
+452,Alice,Miami
+453,Alice,Denver
+454,Jack,Phoenix
+455,Eve,Los Angeles
+456,Eve,Austin
+457,Dana,Phoenix
+458,Hank,Houston
+459,Bob,Denver
+460,Charlie,Houston
+461,Ivy,Boston
+462,Dana,Phoenix
+463,Frank,Chicago
+464,Eve,Phoenix
+465,Charlie,Phoenix
+466,Bob,New York
+467,Jack,Seattle
+468,Charlie,New York
+469,Eve,Miami
+470,Grace,New York
+471,Jack,Houston
+472,Charlie,Denver
+473,Grace,Phoenix
+474,Bob,Austin
+475,Hank,Los Angeles
+476,Dana,Seattle
+477,Ivy,Chicago
+478,Ivy,Houston
+479,Jack,Miami
+480,Bob,New York
+481,Hank,Los Angeles
+482,Frank,Chicago
+483,Grace,Chicago
+484,Grace,New York
+485,Charlie,Denver
+486,Eve,Seattle
+487,Jack,New York
+488,Grace,Denver
+489,Grace,Phoenix
+490,Grace,Los Angeles
+491,Charlie,New York
+492,Hank,Houston
+493,Bob,New York
+494,Eve,Chicago
+495,Frank,Houston
+496,Alice,Miami
+497,Jack,Chicago
+498,Charlie,Seattle
+499,Hank,Seattle
+500,Hank,Phoenix

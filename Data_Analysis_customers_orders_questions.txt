@@ -1,0 +1,46 @@
+
+# Basic Questions (15)
+1. How many customers are in the dataset?
+2. How many orders are in the dataset?
+3. What is the total amount of all orders?
+4. Which customer placed order 1001?
+5. What is the most expensive order?
+6. How many orders did Bob place?
+7. What products were ordered?
+8. How many customers live in Los Angeles?
+9. What is the average order amount?
+10. Which orders are above $50?
+11. Who lives in Chicago?
+12. What is the cheapest order amount?
+13. How many unique customer_ids are in the orders table?
+14. What is the total amount spent on 'Laptop'?
+15. Which customer has the highest customer_id?
+
+# Intermediate Questions (15)
+16. Which customers have placed orders, and what are their cities?
+17. What is the total amount spent by each customer?
+18. Which city has the highest total order amount?
+19. How many orders per city?
+20. What is the average order amount per city?
+21. Which customers ordered more than once?
+22. What is the total amount spent on products costing more than $50?
+23. Which customers spent more than $100 in total?
+24. What is the most ordered product?
+25. Which cities have customers who spent less than $50?
+26. What is the total amount spent by customers from Los Angeles?
+27. Which customer ordered the 'Phone'?
+28. What is the average amount spent by customers who ordered once?
+29. Which orders were placed by customers from cities starting with 'C'?
+30. How many products were ordered by each customer?
+
+# Advanced Questions (10)
+31. What is the percentage of total spending contributed by each customer?
+32. Which city has the highest average order amount, excluding cities with only one order?
+33. What is the rank of customers by total spending?
+34. Which customers have an average order amount above the overall average?
+35. What is the difference in total spending between the highest and lowest spending cities?
+36. Which customers ordered products with amounts in the top 50% of all orders?
+37. What is the cumulative total amount spent per customer, ordered by customer_id?
+38. Which city has the largest range of order amounts?
+39. What is the median order amount per city, and which city has the highest median?
+40. Which customers have orders that deviate more than $50 from their city’s average order amount?
